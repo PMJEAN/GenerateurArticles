@@ -1,0 +1,769 @@
+ARTICLE;PRIX;QTE;DETAILS;Alchimiste;Apothicaire;Archerie;Armurier;Aubergiste et Tavernier;Bijoutier;Bricoleur;Brocanteur;Charpentier;Chasse et pêche;Cordonnier;Clerical;Éleveur - Général; - Aviaire; - Bovin; - Canin; - Caprin; - Chevalin; - Fauconnier; - Porcin;Forgeron;Grand Marché; - Boulanger; - Brasseur; - Charcutier; - Cultivateur; - Herboriste; - Falotier; - Vigneron;Magasin Général;Maréchal-Ferrant;Maroquinier;Métier d'arts - Général; - Comédien; - Musicien; - Peintre; - Sculpteur;Roublard;Scribe;Soigneur;Tailleur;Thaumaturgien
+Allume-feu (x5);2 po ;10;;80;25;;;;;;80;;;;;;;;;;;;;;;;;;;;100;;80;;;;;;;;80;;;;
+Ami du chapardeur [CA];2500 po ;1;;;;;;;15;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;10;;;;70
+Amulette : Armure (+1);1000 po ;2;;;;;;;15;;40;;;;80;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;70
+Amulette : Armure (+2);4000 po ;2;;;;;;;;;20;;;;70;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;60
+Amulette : Armure (+3);9000 po ;2;;;;;;;;;10;;;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40
+Amulette : Armure (+4);16000 po ;1;;;;;;;;;5;;;;50;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40
+Amulette : Charisme (+2);4000 po ;3;;;;;;;15;;40;;;;80;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;60
+Amulette : Charisme (+4);16000 po ;2;;;;;;;;;20;;;;70;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40
+Amulette : Charisme (+6);36000 po ;1;;;;;;;;;10;;;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;20
+Amulette : Constitution (+2);4000 po ;3;;;;;;;15;;40;;;;80;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;60
+Amulette : Constitution (+4);16000 po ;2;;;;;;;;;20;;;;70;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40
+Amulette : Constitution (+6);36000 po ;1;;;;;;;;;10;;;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;20
+Amulette : Dextérité (+2);4000 po ;3;;;;;;;15;;40;;;;80;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;60
+Amulette : Dextérité (+4);16000 po ;2;;;;;;;;;20;;;;70;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40
+Amulette : Dextérité (+6);36000 po ;1;;;;;;;;;10;;;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;20
+Amulette : Force (+2);4000 po ;3;;;;;;;15;;40;;;;80;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;60
+Amulette : Force (+4);16000 po ;2;;;;;;;;;20;;;;70;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40
+Amulette : Force (+6);36000 po ;1;;;;;;;;;10;;;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;20
+Amulette : Intelligence (+2);4000 po ;3;;;;;;;15;;40;;;;80;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;60
+Amulette : Intelligence (+4);16000 po ;2;;;;;;;;;20;;;;70;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40
+Amulette : Intelligence (+6);36000 po ;1;;;;;;;;;10;;;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;20
+Amulette : Poings invincible (+1);6000 po ;1;Bonus d'altération à mains nues;;;;;;15;;40;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;50
+Amulette : Poings invincible (+2);24000 po ;1;Bonus d'altération à mains nues;;;;;;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;30
+Amulette : Poings invincible (+3);54000 po ;1;Bonus d'altération à mains nues;;;;;;;;10;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;20
+Amulette : Poings invincible (+4);96000 po ;1;Bonus d'altération à mains nues;;;;;;;;5;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;15
+Amulette : Résistance (+1);1000 po ;1;Bonus à tous les jets de sauvegarde;;;;;;;;40;;;;80;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;70
+Amulette : Résistance (+2);4000 po ;3;Bonus à tous les jets de sauvegarde;;;;;;;;20;;;;70;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;60
+Amulette : Résistance (+3);9000 po ;2;Bonus à tous les jets de sauvegarde;;;;;;;;10;;;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40
+Amulette : Résistance (+4);16000 po ;2;Bonus à tous les jets de sauvegarde;;;;;;;;5;;;;50;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40
+Amulette : Sagesse (+2);4000 po ;3;;;;;;;15;;40;;;;80;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;60
+Amulette : Sagesse (+4);16000 po ;2;;;;;;;;;20;;;;70;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40
+Amulette : Sagesse (+6);36000 po ;1;;;;;;;;;10;;;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;20
+Anneau de contresort;4000 po ;2;;;;;;;15;;20;;;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;60
+Anneau de crochetage [CA];4500 po ;1;;;;;;;15;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;10;;;;60
+Anneau de marche sur l'onde;15000 po ;2;;;;;;;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;35
+Anneau de subsistance;2500 po ;4;;;;;;;15;;20;;;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;70
+Anneau du bélier;8600 po ;3;;;;;;;15;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40
+Anneau du caméléon;12700 po ;2;;;;;;;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;40;;;;;;;;35
+Arbalète de poing;100 po ;3;Distance. 1d4. 19/x2. Perforant. 15m;;;80;;;;40;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;80;;;;
+Arbalète lance grappin [O&L];70 po ;4;Distance. 1d3. 20/x1 . Perforant. 36m;;;60;;;;30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Arbalète légère;35 po ;4;PR 1. Solidité 10.;;;100;;;;30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Arbalète légère à répétition;250 po ;2;Distance. 1d8. 19/x2. Perforant. 24m;;;90;;;;50;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Arbalète lourde;50 po ;4;Distance. 1d10. 19/x2. Perforant. 36m;;;100;;;;30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Arbalète lourde à répétition;400 po ;2;Distance. 1d10. 19/x2. Perforant. 36m;;;80;;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Arc court;30 po ;4;Distance. 1d6. 20/x3. Perforant. 18m;;;100;;;;;;;75;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Arc court composite;75 po ;4;Distance. 1d6. 20/x3. Perforant. 21m;;;90;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Arc long;75 po ;4;Distance. 1d8. 20/x3. Perforant. 30m;;;100;;;;;;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Arc long composite;100 po ;4;Distance. 1d8. 20/x3. Perforant. 33m;;;90;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Armes à deux mains sur mesure;8 po ;0;Supplément au prix de vente normal;;;;;;;;;;;;;;;;;;;;;100;;;;;;;;;;;;;;;;;;;;;
+Armes à deux mains sur mesure;380 po ;0;Supplément au prix de vente normal;;;;;;;;;;;;;;;;;;;;;100;;;;;;;;;;;;;;;;;;;;;
+Armes à une main sur mesure;5 po ;0;Supplément au prix de vente normal;;;;;;;;;;;;;;;;;;;;;100;;;;;;;;;;;;;;;;;;;;;
+Armes à une main sur mesure;350 po ;0;Supplément au prix de vente normal;;;;;;;;;;;;;;;;;;;;;100;;;;;;;;;;;;;;;;;;;;;
+Armes légères de maître sur mesure;330 po ;0;Supplément au prix de vente normal;;;;;;;;;;;;;;;;;;;;;100;;;;;;;;;;;;;;;;;;;;;
+Armes légères sur mesure;3 po ;0;Supplément au prix de vente normal;;;;;;;;;;;;;;;;;;;;;100;;;;;;;;;;;;;;;;;;;;;
+Armure à plaques;600 po ;2;Lourde. CA +7. Dex 0. ? -7. 40%. -3m;;;;35;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Armure à plaques de maître;900 po ;2;Lourde. CA +7. Dex 0. ? -7. 40%. -3m;;;;15;;;;30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Armure de cuir;10 po ;5;Légère. CA +2. Dex +6. ? 0. 10%;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;80;;;;;;;;;;
+Armure de cuir clouté;25 po ;4;Légère. CA +3. Dex +5. ? -1. 15%;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;80;;;;;;;;;;
+Armure de cuir clouté de maître;325 po ;2;Légère. CA +3. Dex +5. ? -1. 15%;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;50;;;;;;;;;;
+Armure de cuir de dragon de maître ;2000 po ;1;Légère. CA +6. Dex +5. ? -1. 10%;;;;;;;;30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Armure de cuir de maître;310 po ;3;Légère. CA +2. Dex +6. ? 0. 10%;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;50;;;;;;;;;;
+Armure de cuir de ravageur gris de maître ;850 po ;1;Légère. CA +4. Dex +6. ? 0. 10%;;;;;;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Armure de peau;15 po ;4;Intermédiaire. CA +3. Dex +4. ? -3. 20%. -3m;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;80;;;;;;;;;;
+Armure de peau de maître;315 po ;2;Intermédiaire. CA +3. Dex +4. ? -3. 20%. -3m;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;50;;;;;;;;;;
+Armure de peau d'ogre de maître ;450 po ;1;Intermédiaire. CA +4. Dex +4. ? -3. 20%. -3m;;;;;;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Armure d'écailles;50 po ;4;Intermédiaire. CA +4. Dex +3. ? -4. 25%. -3m;;;;40;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Armure d'écailles de dragon de maître ;5000 po ;1;Intermédiaire. CA +7. Dex +3. ? -4. 20%. -3m;;;;;;;;30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Armure d'écailles de maître;350 po ;3;Intermédiaire. CA +4. Dex +3. ? -4. 25%. -3m;;;;20;;;;30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Armure en peau de rhinocéros ;2665 po ;1;Intermédiaire. CA +5. Dex +4. ? -3. 20%. -3m. Charge +2d6;;;;;;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Armure intermédiaire de maître  sur mesure;375 po ;0;Supplément au prix de vente normal;;;;100;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Armure intermédiaire sur mesure;25 po ;0;Supplément au prix de vente normal;;;;100;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Armure légère de maître sur mesure;350 po ;0;Supplément au prix de vente normal;;;;100;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Armure légère sur mesure;10 po ;0;Supplément au prix de vente normal;;;;100;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Armure lourde de maître  sur mesure;450 po ;0;Supplément au prix de vente normal;;;;100;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Armure lourde sur mesure;150 po ;0;Supplément au prix de vente normal;;;;100;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Armure matelassée;305 po ;4;Légère. CA +1. Dex +8. ? 0. 5%;;;;;;;;30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;20;
+Armure matelassée de maître;305 po ;4;Légère. CA +1. Dex +8. ? 0. 5%;;;;;;;;30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;20;
+Armure monture (barde);4000 po ;4;Armure pour monture CA +6, Déplacement -3m;;;;30;;;;;;;;;;;;;;;;;;;;;;;;;;;90;;;;;;;;;;;
+Armure monture (carapaçon);1600 po ;4;Armure pour monture CA +4, Déplacement -1,5m;;;;30;;;;;;;;;;;;;;;;;;;;;;;;;;;90;;;;;;;;;;;
+Armure monture (chamfron);4 po ;4;Casque pour monture CA +2;;;;30;;;;;;;;;;;;;;;;;;;;;;;;;;;90;;;;;;;;;;;
+Arôme de mort figée [CP];4500 po ;1;;15;25;;;;;;40;;;;;;;;;;;;;;;;;;;20;;;;;;;;;;;20;;;;60
+Arôme des songes [CP];1500 po ;2;;25;25;;;;;;40;;;;;;;;;;;;;;;;;;;20;;;;;;;;;;;20;;;;70
+Article en bois sur mesure;4 pa ;0;Par mètre carré;;;;;;;;;100;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Article en cuir sur mesure;7 pa ;0;Par mètre carré;;;;;;;;;;;100;;;;;;;;;;;;;;;;;;;;;100;;;;;;;;;;
+Article en fourrure sur mesure;1 po ;0;Par mètre carré;;;;;;;;;;;100;;;;;;;;;;;;;;;;;;;;;100;;;;;;;;;;
+Article en métal sur mesure;8 po ;0;Par kg;;;;;;;;;;;;;;;;;;;;;100;;;;;;;;;;;;;;;;;;;;;
+Article en tissus sur mesure;3 pa ;0;Par mètre carré;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;100;
+Bague : Armure (+1);1000 po ;2;;;;;;;15;;40;;;;80;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;70
+Bague : Armure (+2);4000 po ;1;;;;;;;;;20;;;;70;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;60
+Bague : Armure (+3);9000 po ;2;;;;;;;;;10;;;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40
+Bague : Armure (+4);16000 po ;2;;;;;;;;;5;;;;50;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40
+Bague : Charisme (+2);4000 po ;3;;;;;;;15;;40;;;;80;;;;;;;;;;;;;;;;;;;;;;15;15;;;;;;;60
+Bague : Charisme (+4);16000 po ;2;;;;;;;;;20;;;;70;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40
+Bague : Charisme (+6);36000 po ;1;;;;;;;;;10;;;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;20
+Bague : Constitution (+2);4000 po ;3;;;;;;;15;;40;;;;80;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;60
+Bague : Constitution (+4);16000 po ;2;;;;;;;;;20;;;;70;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40
+Bague : Constitution (+6);36000 po ;1;;;;;;;;;10;;;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;20
+Bague : Dextérité (+2);4000 po ;3;;;;;;;15;;40;;;;80;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;60
+Bague : Dextérité (+4);16000 po ;2;;;;;;;;;20;;;;70;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40
+Bague : Dextérité (+6);36000 po ;1;;;;;;;;;10;;;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;20
+Bague : Force (+2);4000 po ;3;;;;;;;15;;40;;;;80;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;60
+Bague : Force (+4);16000 po ;2;;;;;;;;;20;;;;70;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40
+Bague : Force (+6);36000 po ;1;;;;;;;;;10;;;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;20
+Bague : Intelligence (+2);4000 po ;3;;;;;;;15;;40;;;;80;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;60
+Bague : Intelligence (+4);16000 po ;2;;;;;;;;;20;;;;70;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40
+Bague : Intelligence (+6);36000 po ;1;;;;;;;;;10;;;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;20
+Bague : Résistance (+1);1000 po ;2;Bonus à tous les jets de sauvegarde;;;;;;15;;40;;;;80;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;70
+Bague : Résistance (+2);4000 po ;3;Bonus à tous les jets de sauvegarde;;;;;;;;40;;;;70;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;60
+Bague : Résistance (+3);9000 po ;2;Bonus à tous les jets de sauvegarde;;;;;;;;20;;;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40
+Bague : Résistance (+4);16000 po ;2;Bonus à tous les jets de sauvegarde;;;;;;;;10;;;;50;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40
+Bague : Sagesse (+2);4000 po ;3;;;;;;;15;;40;;;;80;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;60
+Bague : Sagesse (+4);16000 po ;2;;;;;;;;;20;;;;70;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40
+Bague : Sagesse (+6);36000 po ;1;;;;;;;;;10;;;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;20
+Baguette : Acier silencieux [CA];4500 po ;1;;;;;;;;;25;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;60
+Baguette : Arme sonique [CA];4500 po ;1;;;;;;;;;25;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;60
+Baguette : Attaque spectrale [CA];4500 po ;1;;;;;;;;;25;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;60
+Baguette : Fléau des plantes [CA];750 po ;2;;;;;;;;;25;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;70
+Baguette : Fléau des tombeaux [CA];750 po ;3;;;;;;;;;25;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;70
+Baguette : Fléau du golem [CA];750 po ;3;;;;;;;;;25;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;70
+Baguette : Œil de faucon [CA];750 po ;3;;;;;;;;;25;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;70
+Baguette : Repos bienfaisant [CA];750 po ;4;;;;;;;;;25;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;70
+Baguette magique (niveau 1) sur mesure;500 po ;0;20 charges;;;;;;;;;;;;100;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;100
+Baguette magique (niveau 2) sur mesure;3000 po ;0;20 charges;;;;;;;;;;;;80;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;80
+Baguette magique (niveau 3) sur mesure;7500 po ;0;20 charges;;;;;;;;;;;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;50
+Balance;4 po ;3;Bonus +2 tests d'estimation;;;;;;80;90;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Bandages (x5);1 po ;5;Bonus +1 tests de premiers secours;;;;;;;;;;;;100;;;;;;;;;;;;;;;;;;;;;;;;;;;;100;80;
+Bandeau : Charisme (+2);4000 po ;3;;;;;;;;;20;;;;80;;;;;;;;;;;;;;;;;;;;;;15;15;;;;;;;60
+Bandeau : Charisme (+4);16000 po ;2;;;;;;;;;10;;;;70;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40
+Bandeau : Charisme (+6);36000 po ;1;;;;;;;;;5;;;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;20
+Bandeau : Constitution (+2);4000 po ;3;;;;;;;;;20;;;;80;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;60
+Bandeau : Constitution (+4);16000 po ;2;;;;;;;;;10;;;;70;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40
+Bandeau : Constitution (+6);36000 po ;1;;;;;;;;;5;;;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;20
+Bandeau : Dextérité (+2);4000 po ;3;;;;;;;;;20;;;;80;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;60
+Bandeau : Dextérité (+4);16000 po ;2;;;;;;;;;10;;;;70;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40
+Bandeau : Dextérité (+6);36000 po ;1;;;;;;;;;5;;;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;20
+Bandeau : Force (+2);4000 po ;3;;;;;;;;;20;;;;80;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;60
+Bandeau : Force (+4);16000 po ;2;;;;;;;;;10;;;;70;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40
+Bandeau : Force (+6);36000 po ;1;;;;;;;;;5;;;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;20
+Bandeau : Intelligence (+2);4000 po ;3;;;;;;;;;20;;;;80;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;60
+Bandeau : Intelligence (+4);16000 po ;2;;;;;;;;;10;;;;70;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40
+Bandeau : Intelligence (+6);36000 po ;1;;;;;;;;;5;;;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;20
+Bandeau : Sagesse (+2);4000 po ;3;;;;;;;;;20;;;;80;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;60
+Bandeau : Sagesse (+4);16000 po ;2;;;;;;;;;10;;;;70;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40
+Bandeau : Sagesse (+6);36000 po ;1;;;;;;;;;5;;;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;20
+Bandeau en cuir;2 pc;6;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;100;;;;;;;;;;
+Bandeau en suède;3 pc;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40;;;;;;;;;;
+Bandeau en tissus;1 pc;8;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;80;
+Bandoulière en cuir;8 pc;8;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;100;;;;;;;;;;
+Bandoulière en suède;1 pa 3 pc;5;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;70;;;;;;;;;;
+Bardiche [CM];20 po ;2;Deux mains. 2d6. 20/x3. Tranchant;;;;;;;;;;;;;;;;;;;;;60;;;;;;;;;;;;;;;;;;;;;
+Barique : Vin ;16 po ;10;40 litres;;;;;;;;;;;;;;;;;;;;;;80;;;;;;;100;;;;;;;;;;;;;
+Barique vide;1 po 8 pa ;10;40 litres;;;;;;;;;80;;;;;;;;;;;;;80;;100;;;;;100;;;;;;;;;;;;;
+Barque;100 po ;5;2 passagers (rameur);;;;;;;;;80;40;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Bateau à voile;6000 po ;2;15 passagers, 50 tonnes (8 rameurs);;;;;;;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Bateau pliant;7200 po ;5;;;;;;;;;25;10;10;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Bâton éclairant;4 po ;10;;80;25;;;;;;40;;;;;;;;;;;;;;;;;;;;80;;;;;;;;;;;;;;
+Bâton fumigène;40 po ;10;;80;25;;;;;;40;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;30;;;;
+Baume guérisseur [CA];10 po ;8;Premier secours +1 (durée 1 min);50;;;;;;;40;;;;90;;;;;;;;;;;;;;;20;;;20;;;;;;;;;;80;;
+Béquilles;3 po ;4;;;;;;;;;;80;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;100;;
+Bête : Âne/Mûle;110 po ;10;Viande : 80kg;;;;;;;;;;;;;80;;40;;;70;;;;40;;;;;;;;;;;;;;;;;;;;
+Bête : Bœuf;120 po ;5;Viande : 300kg;;;;;;;;;;;;;80;;100;;;;;;;35;;;;;;;;;;;;;;;;;;;;
+Bête : Cheval;150 po ;10;Viande : 250kg;;;;;;;;;;;;;80;;;;;100;;;;20;;;;;;;;;;;;;;;;;;;;
+Bête : Cheval de guerre;400 po ;3;Tours : arrête, attaque, au pied, garde, protège, viens;;;;;;;;;;;;;40;;;;;80;;;;;;;;;;;;;;;;;;;;;;;;
+Bête : Cheval dompté;250 po ;4;Tours : attend, au pied, viens;;;;;;;;;;;;;40;;;;;100;;;;;;;;;;;;;;;;;;;;;;;;
+Bête : Chèvre;24 po ;20;Viande : 12kg, Lait : 3L / jour;;;;;;;;;;;;;80;;;;100;;;;;50;;;;;;;;;;;;;;;;;;;;
+Bête : Chien;6 pa ;5;;;;;;;;;;;;;;70;;;100;100;;;;;50;;;;;;;;;;;;;;;;;;;;
+Bête : Chien de chasse;30 po ;3;Tours : arrête, attaque, au pied, suis, va chercher;;;;;;;;;;70;;;40;;;100;;;;;;;;;;;;;;;;;;;;;;;;;;
+Bête : Chien de garde;25 po ;4;Tours : arrête, attaque, garde, protège;;;;;;;;;;;;;40;60;40;80;80;;;;;;;;;;;;;;;;;;;;;;;;;
+Bête : Faucon;5 po ;3;;;;;;;;;;;;;;70;;;;;;100;;;;;;;;;;;;;;;;;;;;;;;
+Bête : Faucon affaité;45 po ;2;Tours : attaque, reviens, suis, va chercher;;;;;;;;20;;80;;;40;;;;;;100;;;;;;;;;;;20;;;;;;;;;;;;
+Bête : Mouton;30 po ;20;Viande : 20kg, Laine : 10kg / an;;;;;;;;;;;;;80;;;;100;;;;;50;;;;;;;;;;;;;;;;;;;;
+Bête : Oie;6 po ;20;Viande : 4kg, Œuf : 1 / 2 jours (saison chaudes seulement);;;;;;;;;;;;;80;100;;;;;;;;70;;;;;;;;;;;;;;;;;;;;
+Bête : Porc;40 po ;20;Viande : 70kg;;;;;;;;;;;;;80;;;;;;;100;;40;;;;;;;;;;;;;;;;;;;;
+Bête : Poule;5 po ;20;Viande : 700g, Œuf : 1 / jour;;;;;;;;;;;;;80;100;;;;;;;;80;;;;;;;;;;;;;;;;;;;;
+Bête : Vache;150 po ;20;Viande : 300kg, Lait : 15L / jour;;;;;;;;;;;;;80;;100;;;;;;;50;;;;;;;;;;;;;;;;;;;;
+Bijoux sur mesure;2 po ;0;Pierre précieuse en supplément;;;;;;100;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Billes de fer (x10);2 pa ;10;;;;;;;;;;;100;;;;;;;;;;;100;;;;;;;;;80;;;;;;;;;;;;
+Billes de verre (x10);1 po 3 pa ;10;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;80;;;;;;;80;;;;;
+Bobine de corde infinie [CA];2000 po ;2;;;;;;;;;25;;;;;;;;;;;;;;;;;;;;;;10;;;;;;;;;;;;
+Boite en bois;1 po 8 pa ;4;30cm x 15cm x 15xm (solidité 5 PR 3);;;;;;;;;80;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Bolas;5 po ;3;Ditance. 1d4. 20/x2. Contondant. 3m;;;;;;;;;;80;;;;;;;;;;;;;;;;;;;;20;;;;;;;;;;;;
+Bonet en cuir;2 pc;6;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;100;;;;;;;;;;
+Bonet en suède;3 pc;3;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;60;;;;;;;;;;
+Bonet en tissus;1 pc;8;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;80;
+Bottes de cuir;9 pa ;5;;;;;;;;;;;;100;;;;;;;;;;;;;;;;;;;;;100;;;;;;;;;;
+Bottes de fourrure;1 po 6 pa ;5;;;;;;;;;;;;100;;;;;;;;;;;;;;;;;;;;;100;;;;;;;;;;
+Bottes de lévitation;7500 po ;2;;;;;;;;;20;;;10;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;50
+Bottes de rapidité;12000 po ;2;;;;;;;;;20;;;10;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;35
+Bottes de sept lieu;5500 po ;3;;;;;;;;;20;;;10;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;60
+Bottes de suède;3 po ;5;;;;;;;;;;;;100;;;;;;;;;;;;;;;;;;;;;100;;;;;;;;;;
+Bottes des terres gelées;2500 po ;3;;;;;;;;;20;;;10;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;70
+Bottes longues en suède;5 pc;2;;;;;;;;;;;;80;;;;;;;;;;;;;;;;;;;;;30;;;;;;;;;;
+Bouclier du lion;9170 po ;1;CA+2, 3x/jour attaque 2d6;;;;;;;;20;;;;25;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40
+Bougie ;4 pc;5;8 heures;;;;;;;;50;;;;60;;;;;;;;;;80;;;;;80;100;;80;;;;;;;;;100;;;
+Boule flash [CA];50 po ;10;;80;25;;;;;;40;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;30;;;;
+Bourse;2 pc;5;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;80;;100;;;;;;;;;80;
+Bourse de l'opossum [CA];1800 po ;2;;;;;;;;;30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;10;;;;70
+Boussole;2 po 4 pa ;2;;;;;;;;90;60;;;;;;;;;;;;;;;;;;;;;;60;;;;;;;;;;;;70
+Bouteille : Alcool fort;11 po 2 pa ;10;1 litre;;;;;100;;;;;;;;;;;;;;;;;80;;100;;;;;;;;;;;;;;;;;;
+Bouteille : Bière;1 pa 4 pc;40;1 litre;;;;;100;;;;;;;;;;;;;;;;;80;;100;;;;;;;;;;;;;;;;;;
+Bouteille : Huile;8 pa ;20;1 litre;40;100;;;;;;;;;;;;;;;;;;;;;;;;;;100;;;;;;;;;;;;;;
+Bouteille : Hydromel;3 po ;40;1 litre;;;;;100;;;100;;;;;;;;;;;;;;80;;;;;;;80;;;;;;;;;;;;;
+Bouteille : Vin;4 pa ;40;1 litre;;;;;100;;;100;;;;;;;;;;;;;;80;;;;;;;100;;;;;;;;;;;;;
+Bouteille vide;1 pa 6 pc;20;1 litre;;;;;;;;;;;;;;;;;;;;;;80;;100;;;;;100;;;;;;;;;;;;;
+Bracelets : Armure (+1);1000 po ;2;;;;;;;15;;40;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;70
+Bracelets : Armure (+2);4000 po ;2;;;;;;;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;60
+Bracelets : Armure (+3);9000 po ;2;;;;;;;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40
+Bracelets : Armure (+4);16000 po ;1;;;;;;;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40
+Bracelets d'archer ;5000 po ;2;;;;10;;;;;20;;;;;;;;;;;25;;;;;;;;;;;;;;;;;;;;;;;60
+Bracelets d'archer hors pair;25000 po ;1;;;;5;;;;;30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;25
+Brassards de puissance [CA];4100 po ;1;;;;;10;;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;60
+Brassards en cuir;3 pc;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;80;;;;;;;;;;
+Bride et Mors;4 pa ;5;;;;;;;;;;;;;;40;;;;;70;;;;;;;;;;;;;100;;;;;;;;;;;
+Broche de défense (PR 100);1500 po ;1;;;;;;;;;20;;;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;50
+Broche de défense (PR 50);900 po ;2;;;;;;;;;20;;;;80;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;70
+Cadenas;4 po ;5;DD12, PR 5, Solidité selon métal;;;;;;;80;;;;;;;;;;;;;;;;;;;;;;;60;;;;;;;;60;;;;
+Cadenas de maître;20 po ;5;DD20, PR12, Solidité selon métal;;;;;;;40;;;;;;;;;;;;;;;;;;;;;;;30;;;;;;;;40;;;;
+Cadenas de qualité supérieure;8 po ;5;DD16, PR 8, Solidité selon métal;;;;;;;60;;;;;;;;;;;;;;;;;;;;;;;40;;;;;;;;50;;;;
+Cagoule en cuir;3 pc;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;60;;;;;;;;;;
+Cagoule en suède;5 pc;3;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40;;;;;;;;;;
+Cagoule en tissus;2 pc;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;80;
+Canne à pêche;1 po ;10;;;;;;;;;;;100;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Cape : Charisme (+2);4000 po ;3;;;;;;;;;20;;;;80;;;;;;;;;;;;;;;;;;;;;;20;15;;;;;;10;60
+Cape : Charisme (+4);16000 po ;2;;;;;;;;;20;;;;70;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40
+Cape : Charisme (+6);36000 po ;1;;;;;;;;;20;;;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;20
+Cape : Résistance (+1);1000 po ;1;Bonus à tous les jets de sauvegarde;;;;;;;;20;;;;80;;;;;;;;;;;;;;;;;;;;;;;;;;;;;10;70
+Cape : Résistance (+2);4000 po ;3;Bonus à tous les jets de sauvegarde;;;;;;;;20;;;;70;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;60
+Cape : Résistance (+3);9000 po ;2;Bonus à tous les jets de sauvegarde;;;;;;;;20;;;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40
+Cape : Résistance (+4);16000 po ;2;Bonus à tous les jets de sauvegarde;;;;;;;;20;;;;50;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40
+Cape à capuchon en cuir;1 pa 8 pc;2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;60;;;;;;;;;;
+Cape à capuchon en fourrure;3 pa ;3;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;25;;40;;;;;;;;;;
+Cape à capuchon en suède;3 pa ;2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;30;;;;;;;;;;
+Cape à capuchon en tissus;1 pa 2 pc;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;80;
+Cape de fourrure;2 pa ;5;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;25;;50;;;;;;;;;;
+Cape de la raie manta;7200 po ;1;;;;;;;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;50
+Cape de prestidigitateur;10080 po ;1;;;;;;;;;20;;;;;;;;;;;;;;;;;;;;;;;;;10;10;;;;;;;;35
+Cape en cuir;1 pa 2 pc;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;80;;;;;;;;;;
+Cape en suède;2 pa ;3;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40;;;;;;;;;;
+Cape en tissus;8 pc;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;80;
+Carafe intarissable;9000 po ;1;;;;;;;;;20;;;;40;;;;;;;;;;;;20;;;;;;;;;;;;;;;;;;40
+Carillon d'interruption;16800 po ;1;;;;;;;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;5;;;;;;;30
+Carillon d'ouverture;3000 po ;1;;;;;;;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;15;;;10;;;;70
+Carquois;3 po 6 pa ;5;20 flèches, Nécessite une ceinture ou bandouillère;;;100;;;;;;;;;;;;;;;;;;;;;;;;;;;80;;80;;;;;;;;;;
+Carquois d'Elhonna;18000 po ;3;;;;10;;;;;;;10;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;30
+Carquois d'harnachement;9 po ;3;20 flèches, Nécessite une selle;;;70;;;;;;;;;;;;;;;;;;;;;;;;;;;;80;80;;;;;;;;;;
+Carreaux (x10);1 po ;10;;;;100;;;;;;;;;;;;;;;;;;;;;;;;;;;80;;;;;;;;80;;;;
+Carreaux-grappin (x10) [O&L];200 po ;4;Distance. 1d3. 20/x1 . Perforant. 36m;;;60;;;;30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Carriole;140 po ;2;2 bêtes, 1 places ouvertes, 2 places fermées;;;;;;;;;80;;;;;;;;;70;;;;;;;;;;;;;40;;;;;;;;;;;
+Carte de la région;12 po ;4;;;;;;;;;65;;;;60;;;;;;;;;;;;;;;;;;60;;;;;;;;;100;;;
+Casque de compréhension;5200 po ;4;;;;;;;;;25;;;;40;;;;;;;;;;;;;;;;;;;;;;;20;;;;30;;;60
+Ceinture : Force (+2);4000 po ;3;;;;;;;;;20;;;10;;;;;;;;;;;;;;;;;;;;;10;;;;;;;;;;60
+Ceinture : Force (+4);16000 po ;2;;;;;;;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40
+Ceinture : Force (+6);36000 po ;1;;;;;;;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;20
+Ceinture de moine;13000 po ;1;;;;;;;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;35
+Ceinture de résistance à la magie [CP];90000 po ;1;;;;;;;;;10;;;;15;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;15
+Ceinture des nains;14900 po ;1;;;;;;;;;20;;;;;;;;;;;;;;;;;;;;;;;;10;;;;;;;;;;35
+Ceinture en cuir;3 pc;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;80;;;;;;;;;;
+Ceinture en suède;5 pc;3;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40;;;;;;;;;;
+Chaîne (3m);60 po ;5;;;;;;;;;;;;;;;;;;;;;;100;;;;;;;;;;;;;;;;;80;;;;
+Chaîne cloutée;25 po ;3;Deux mains. 2d4. 20/x2. Perforant;;;;;;;;;;;;;;;;;;;;;60;;;;;;;;;;;;;;;;;;;;;
+Châle ensorceleur [CA];3500 po ;1;;;;;;;;;20;;;;;;;;;;;;;;;;;;;;;;;;;10;15;;;;10;;;;70
+Chandelle de méticulosité [CA];100 po ;4;;40;25;;;;;;40;;;;40;;;;;;;;;;;;;;;40;15;;;;;;;;;;;10;;;70
+Chapeau large en cuir;6 pc;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;80;;;;;;;;;;
+Chapeau large en suède;1 pa ;3;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;60;;;;;;;;;;
+Chapeau large en tissus;4 pc;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;80;
+Chapeau simple en cuir;5 pc;5;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;90;;;;;;;;;;
+Chapeau simple en suède;8 pc;3;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;60;;;;;;;;;;
+Chapeau simple en tissus;3 pc;6;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;80;
+Charcuterie;5 pa 5 pc;10;250g (1 portion);;;;;80;;;;;;;;80;;;;100;;;100;;80;;;100;;;;;;;;;;;;;;;;;
+Chariot ;70 po ;2;2 bêtes, 6 places ouvertes;;;;;;;;;80;;;;40;;80;;;60;;;;;;;;;;;;;40;;;;;;;;;;;
+Charme de coagulation;15000 po ;1;;;;;;;;;20;;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;35
+Charrette ;30 po ;2;1 bête, 2 places ouvertes;;;;;;;;;80;;;;;;80;;;80;;;;60;;;;;;;;;40;;;;;;;;;;;
+Chasuble de druide;10000 po ;1;;;;;;;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;35
+Chaudron en métal;5 pa ;4;Contient 8L;;;;60;;;80;;;60;;;;;;;;;;;60;;;;;;;;;80;;;;;;;;;;;;
+Chaussettes en tissus (x2);1 pc;15;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;80;
+Chaussons d'araignée;4800 po ;1;;;;;;;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;60
+Chaussures de cuir;3 pa ;5;;;;;;;;;;;;100;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Chaussures en cuir (x2);2 pc;6;;;;;;;;;;;;100;;;;;;;;;;;;;;;;;;;;;60;;;;;;;;;;
+Chaussures en suède (x2);3 pc;3;;;;;;;;;;;;80;;;;;;;;;;;;;;;;;;;;;40;;;;;;;;;;
+Chemise de mailles;100 po ;4;Légère. CA +4. Dex +4. ? -2. 20%. ;;;;40;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Chemise de mailles de maître;400 po ;2;Légère. CA +4. Dex +4. ? -2. 20%. ;;;;20;;;;30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Chemise légère en tissus;5 pc;8;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;80;
+Cheval de pierre;14800 po ;1;;;;;;;;;20;;;;;;;;;;;;;;;;;;;;;;;;;10;;;;20;;;;;35
+Chevalière;10 po ;2;;;;;;;100;50;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Chope : Bière ;8 pc;40;500ml;;;;;100;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Cierge de vérité;2500 po ;2;;;;;;;;;20;;;;40;;;;;;;;;;;;;;;;15;;;;;;;;;;;10;;;70
+Cimeterre à deux mains;75 po ;3;Deux mains. 2d4. 18/x2. Tranchant;;;;;;;;;;;;;;;;;;;;;60;;;;;;;;;;;;;;;;;;;;;
+Cire à cacheter;2 po ;4;10 charges;40;;;;;;;;;;;;;;;;;;;;;;;;;;;100;;80;;;;;;;;80;100;;;
+Cire à chaussure;3 pa ;5;10 charges;;;;;;;;;;;100;;;;;;;;;;;;;;;;;100;;80;;;;;;;;;;;;
+Clibanion;200 po ;3;Lourde. CA +6. Dex 0. ? -7. 40%. -3m;;;;40;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Clibanion de maître;500 po ;2;Lourde. CA +6. Dex 0. ? -7. 40%. -3m;;;;20;;;;30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Cloche;2 po ;2;;;;;;;;80;;;;;;;;;;;;;;30;;;;;;;;;;;;;;;;;;;;;
+Clochettes (3);2 po ;5;;;;;;;;80;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;80;;;;
+Coffre en fer;4 po ;3;1m x 40cm x 40cm (solidité 10 PR 15);;;;;;;;;;;;;;;;;;;;;40;;;;;;;;;;;;;;;;;;;;;
+Colle universelle;2400 po ;1;;35;25;;;;;;40;;;;;;;;;;;;;;;;;;;80;80;;;;;;;;;60;;;;;70
+Collier d'adaptation;9000 po ;1;;;;;;;15;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40
+Collier d'obéissance [CA];1500 po ;1;;;;;;;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;70
+Contrat de Nephtas [CP];1400 po ;1;;;;;;;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;70
+Corde ;2 po ;4;15 mètres;;;;;;;;;;100;;;;;;;;;;;;;;;;;;;;80;;;;;;;;80;;;30;
+Corde de pierre [CA];2800 po ;1;;;;;;;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;70
+Corsèque;10 po ;2;Deux mains. 2d4. 20/x3. Perforant;;;;;;;;;;;;;;;;;;;;;60;;;;;;;;;;;;;;;;;;;;;
+Cotte de mailles;150 po ;4;Intermédiaire. CA +5. Dex +2. ? -5. 30%. -3m;;;;40;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Cotte de mailles de maître;450 po ;1;Intermédiaire. CA +5. Dex +2. ? -5. 30%. -3m;;;;20;;;;30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Coupe : Hydromel ;7 pa ;40;200ml;;;;;100;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Coupe : Vin;1 pa ;40;200ml;;;;;100;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Coutille;8 po ;2;Deux mains. 1d10. 20/x3. Perforant;;;;;;;;;;;;;;;;;;;;;60;;;;;;;;;;;;;;;;;;;;;
+Couverture;1 po ;10;;;;;;;;;;;80;;;;;;;;;;;;;;;;;;;;80;;;;;;;;;;;100;
+Couverture de fourrure;8 po ;10;;;;;;;;;;;60;;;;;;;;;;;;;;;;;;;;;;100;;;;;;;;;;
+Couvre-chef de déguisement;1800 po ;2;;;;;;;;;20;;;;;;;;;;;;;;;;;;;;;;;;;10;40;;;;10;;;;70
+Crème de camouflage [CA];50 po ;5;;40;25;;;;;;40;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;70
+Crevice;250 po ;3;Lourde. CA +6. Dex +1. ? -6. 35%. -3m;;;;35;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Crevice de maître;550 po ;1;Lourde. CA +6. Dex +1. ? -6. 35%. -3m;;;;15;;;;30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Cuillère de Murlynd;5400 po ;1;;;;;;;;;20;;10;;40;;;;;;;;;;;;;;;;;;;;;;;;;10;;;;;60
+Cuir ou Fourrure brut;1 po 6 pa ;5;Mètre²;;;;;;;;;;80;;;100;;100;;100;100;;100;;;;;;;;;;;;;;;;;;;;;;
+Cuirasse;200 po ;3;Intermédiaire. CA +5. Dex +3. ? -4. 25%. -3m;;;;35;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Cuirasse de maître;500 po ;1;Intermédiaire. CA +5. Dex +3. ? -4. 25%. -3m;;;;15;;;;30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Dague;2 po ;4;Légères. 1d4. 19/x3. Perforant ou Tranchant;;;;;;;;;;;;;;;;;;;;;100;;;;;;;;;;;;;;;;;80;;;;
+Diligence;200 po ;1;4 bêtes, 2 places ouvertes, 4 places fermées;;;;;;;;;40;;;;;;;;;40;;;;;;;;;;;;;20;;;;;;;;;;;
+Double-lame;100 po ;2;Deux mains. 1d8/1d8. 19/x3. Tranchant;;;;;;;;;;;;;;;;;;;;;60;;;;;;;;;;;;;;;;;;;;;
+Dressage : Animal de chasse;30 po ;0;6 semaines. Tours : arrête, attaque, au pied, suis, va chercher;;;;;;;;;;100;;;100;;;100;;;100;;;;;;;;;;;;;;;;;;;;;;;
+Dressage : Animal de combat;25 po ;0;3 semaines. Tours : arrête, attaque, attend;;;;;;;;;;25;;;80;;;100;;;30;;;;;;;;;;;;;;;;;;;;;;;
+Dressage : Animal de garde;20 po ;0;4 semaines. Tours : arrête, attaque, garde, protège;;;;;;;;;;50;;;100;;;100;25;;50;;;60;;;;;;;;;;;;;;;;;;;;
+Dressage : Monture;45 po ;0;3 semaines. Tours : attend, au pied, viens;;;;;;;;;;;;;100;;;;;100;;;;60;;;;;;;;;;;;;;;;;;;;
+Dressage : Monture de combat;120 po ;0;6 semaines. Tours : arrête, attaque, au pied, garde, protège, viens;;;;;;;;;;;;;80;;;;;100;;;;;;;;;;;;;;;;;;;;;;;;
+Écharpe en fourrure;5 pc;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;25;;30;;;;;;;;;;
+Écharpe en tissus;2 pc;8;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;80;
+Écu en bois;7 po ;3;Une main. 1d3. 20/x2. Contondant. CA +2. ? -2. 15%;;;;;;;;40;80;;;;;;;;;;;;;;;;;;;;;40;;;;;;;;;;;;
+Écu en métal;20 po ;3;Une main. 1d3. 20/x2. Contondant. CA +2. ? -2. 15%;;;;80;;;;30;;;;40;;;;;;;;;;;;;;;;;;20;;;;;;;;;;;;
+Écurie;1 po ;0;Par jour;;;;;40;;;;;;;;75;;60;;;100;;;;;;;;;;;;;80;;;;;;;;;;;
+Épée à deux mains;50 po ;3;Deux mains.2d6. 19/x2. Tranchant;;;;;;;;;;;;;;;;;;;;;60;;;;;;;;;;;;;;;;;;;;;
+Épée bâtarde;35 po ;3;Deux mains. 1d10. 19/x2. Tranchant;;;;;;;;;;;;;;;;;;;;;60;;;;;;;;;;;;;;;;;;;;;
+Épée courte;10 po ;4;Légère. 1d6. 19/x2. Perforant ou Tranchant;;;;;;;;;;;;;;;;;;;;;80;;;;;;;;;;;;;;;;;;;;;
+Épée courte à lame large [CA];75 po ;3;Légère. 1d6. 19/x2. Perforant ou Tranchant;;;;;;;;;;;;;;;;;;;;;60;;;;;;;;;;;;;;;;;;;;;
+Épée longue;15 po ;3;Une main. 1d8. 19/x2. Tranchant;;;;;;;;;;;;;;;;;;;;;80;;;;;;;;;;;;;;;;;;;;;
+Équipement d'aventurier aguerri;52 po ;0;Équipement avancé, Étui à carte (x1), Carte de la région, Tente 1 place, Allume-feu (x5);;;;;;;;;;60;;;;;;;;;;;;;;;;;;;;100;;;;;;;;;;;;
+Équipement d'aventurier avancé;16 po ;0;Équipement de base, Matériel d'escalade, Pierre à aiguiser, Poêle, Tenue de voyage;;;;;;;;;;80;;;;;;;;;;;;;;;;;;;;100;;;;;;;;;;;;
+Équipement d'aventurier de base;10 po ;0;Havresac, Couverture, Paillasse, Torche (x5), Ration (x5);;;;;;;;;;100;;;;;;;;;;;;;;;;;;;;100;;;;;;;;;;;;
+Équipement de départ;1 po 8 pa ;0;Bourse, Musette, Habit de paysan, Outre 1L, Silex;;;;;;;;;;100;;;;;;;;;;;;;;;;;;;;100;;;;;;;;;;;;
+Étui à carte ou parchemin ;8 po ;3;3 emplacement;;;;;;;;;;;;40;;;;;;;;;;;;;;;;;;;;80;;;;;;;80;;;50
+Étui à carte ou parchemin ;2 po ;4;1 emplacement;;;;;;;;;;;;60;;;;;;;;;;;;;;;;;;;;80;;;;;;;80;;;100
+Farine de blé;1 pa ;10;Sac 1kg;;;;;;;;;;;;;;;;;;;;;;80;100;;;80;;;;80;;;;;;;;;;;;
+Farine de maïs;3 pa ;10;Sac 1kg;;;;;;;;;;;;;;;;;;;;;;80;100;;;80;;;;;;;;;;;;;;;;
+Farine de seigle;2 pa ;10;Sac 1kg;;;;;;;;;;;;;;;;;;;;;;80;80;;;80;;;;;;;;;;;;;;;;
+Fers à cheval (x4);1 pa ;5;;;;;;;;;;;;;;40;;;;;40;;;;;;;;;;;;;100;;;;;;;;;;;
+Fers à cheval de rapidité;3000 po ;1;;;;;;;;;20;;;;;;;;;;10;;;;;;;;;;;;;10;;;;;;;;;;;70
+Fers à cheval du zéphyr;6000 po ;1;;;;;;;;;20;;;;;;;;;;10;;;;;;;;;;;;;10;;;;;;;;;;;50
+Fil à collet;2 pa ;10;Bobine 3 mètres;;;;;;;;;;100;;;;;;;;;;;;;;;;;;;;;;;;;;;;80;;;;
+Fil à coudre et aiguille;10 po ;5;Bobine 3 mètres;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;100;;;;;;;100;
+Fil à pêche;6 pa ;10;Bobine 5 mètres;;;;;;;;;;100;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Filet de guerre;20 po ;3;DD20, PR 5, Solidité 1;;;;;;;;;;80;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Filet de pêche (2,5m);8 po ;5;PR 5, Solidité 1;;;;;;;;;;100;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Finelame elfe [CM];100 po ;2;Une main. 1d8. 18/x2. Perforant;;;;;;;;;;;;;;;;;;;;;60;;;;;;;;;;;;;;;;;;;;;
+Fiole : Antidote (+2);30 po ;10;Bonus au jet de Vigueur pour annuler l'effet du poison;60;80;;;;;;;;;;70;;;;;;;;;;;;;;;;;;;;;;;;;;;;100;;
+Fiole : Antidote (+5);50 po ;4;Bonus au jet de Vigueur pour annuler l'effet du poison;30;60;;;;;;;;;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;80;;
+Fiole : Antidote suprême;250 po ;2;Annule l'effet du poison;15;40;;;;;;;;;;40;;;;;;;;;;;;;;;;;;;;;;;;;;;;60;;
+Fiole : Arsenic ;120 po ;4;Ingestion, DD13, Initial 1 Con, Secondaire 1d8 Con;;90;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40;;;;
+Fiole : Bile de dragon;1500 po ;2;DD26, Initial 3d6 For;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;15;;;;
+Fiole : Brume de folie;1500 po ;2;Inhalation, DD15, Initial 1d4 Sag, Secondaire 2d6 Sag;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;15;;;;
+Fiole : Cendres d'ungol;1000 po ;2;Inhalation, DD15, Initial 1 Cha, Secondaire 1d6 +1 Cha;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;15;;;;
+Fiole : Extrait de lotus noir;4500 po ;2;DD20, Initial & Secondaire 3d6 Con;;40;;;;;;;;;;;;;;;;;;;;;;;;;10;;;;;;;;;;;5;;;;
+Fiole : Fluide cervical de charognard rampant;200 po ;3;DD13, Paralysie 2d6 minutes;;90;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40;;;;
+Fiole : Huile de taggit;90 po ;4;Ingestion, DD15, Secondaire Perte de conscience 1d3heure;;90;;;;;;;;;;;;;;;;;;;;;;;;;10;;;;;;;;;;;40;;;;
+Fiole : Venin d'araignée monstrueuse;150 po ;3;DD14, Initial 1d4 For, Secondaire 1d6 For;;90;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40;;;;
+Fiole : Venin de mille-pattes monstrueux;90 po ;4;DD11, Initial & Secondaire 1d2 Dex;;100;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40;;;;
+Fiole : Venin de scorpion monstrueux;200 po ;3;DD18, Initial & Secondaire 1d6 For;;90;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40;;;;
+Fiole : Venin de ver pourpre;700 po ;3;DD24, Initial & Secondaire 1d6 For;;90;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40;;;;
+Fiole : Venin de vipère à tête noire;120 po ;3;DD11, Initial & Secondaire 1d6 Con;;90;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40;;;;
+Fiole : Venin de Wiverne;3000 po ;2;DD17, Initial & Secondaire 2d6 Con;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;15;;;;
+Fiole du dernier souffle [CA];2200 po ;2;;35;25;;;;;;40;;;;40;;;;;;;;;;;;;;;;;;;;;;;;;;;;40;;70
+Fiole vide;2 pa ;10;250ml ;99;100;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Flacon : Parfum;2 po ;4;10ml (10 charges);80;;;;;;;80;;;;;;;;;;;;;;;;;;;100;;;50;;;;;;;;;;;;
+Flacon d'air pur;7250 po ;3;;;;;;;;;20;;;;;;;;;;;;;;;;;;;20;;;;;;;;;;;;;;;50
+Flasque : Acide;10 po ;5;Inflige 1d6 points de dégâts d'acide;30;100;;;;;;;;;;;;;;;;;;;;;;;;;;60;;;;;;;;;50;;;;;
+Flasque : Eau bénite;25 po ;8;Inflige 2d4 points de dégâts aux morts-vivants;30;;;;;;;30;;;;100;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Flasque : Feu grégeois;20 po ;4;Inflige 1d6 points de dégâts de feu;30;60;;;;;;30;;;;80;;;;;;;;;;;;;;;;60;;;;;;;;;;;;;;
+Flasque : Huile;2 pa ;10;250ml;80;100;;;;;;;;;;;;;;;;;;;;;;;;;;100;;80;;;;;;;;;;;;
+Fléau d'armes léger;8 po ;3;Une main. 1d8. 20/x2. Contondant;;;;;;;;;;;;;;;;;;;;;80;;;;;;;;;;;;;;;;;;;;;
+Fléau d'armes lourd;15 po ;2;Deux mains. 1d10. 19/x2. Contondant;;;;;;;;;;;;;;;;;;;;;60;;;;;;;;;;;;;;;;;;;;;
+Flèches (x20);1 po ;20;;;;100;;;;;;;100;;;;;;;;;;;;;;;;;;;;80;;;;;;;;;;;;
+Flûte à bec [O&L];10 po ;3;Malus -1 aux jets de sauvegarde vs coercition (adversaires);;;;;;;;65;;;;;;;;;;;;;;;;;;;;;;;;;80;;100;;;;;;;
+Flûte à bec de maître (+2) [O&L];200 po ;2;Malus -1 aux jets de sauvegarde vs coercition (adversaires);;;;;;;;40;;;;;;;;;;;;;;;;;;;;;;;;;60;;70;;;;;;;
+Flûte à bruitage;1800 po ;2;;;;;;;;;20;;;;;;;;;;;;;;;;;;;;;;;;;10;;20;;;;;;;70
+Flûte de hantise;6000 po ;1;;;;;;;;;20;;;;;;;;;;;;;;;;;;;;;;;;;10;;10;;;;;;;50
+Flûte de pan [O&L];10 po ;3;Bonus +1 tests de représentation vs fée et animaux;;;;;;;;65;;;;;;;;;;;;;;;;;;;;;;;;;80;;100;;;;;;;
+Flûte de pan de maître (+2) [O&L];200 po ;2;Bonus +1 tests de représentation vs fée et animaux;;;;;;;;40;;;;;;;;;;;;;;;;;;;;;;;;;60;;70;;;;;;;
+Flûte d'Hameln;1150 po ;2;;;;;;;;;20;;;;;;;;;;;;;;;;;;;;;;;;;10;;20;;;;;;;70
+Flûte droite [O&L];10 po ;3;Bonus +5 tests de contre-chant (représentation );;;;;;;;65;;;;;;;;;;;;;;;;;;;;;;;;;80;;100;;;;;;;
+Flûte droite de maître (+2) [O&L];200 po ;2;Bonus +5 tests de contre-chant (représentation );;;;;;;;40;;;;;;;;;;;;;;;;;;;;;;;;;60;;70;;;;;;;
+Fouet;1 po ;3;Une main. 1d3. 20/x2. Tranchant. 4,5m;;;;;;;;;;;;;100;;;;;80;;;;;;;;;;;;;;60;;;;;;;;;;
+Fouet barbelé [CM];20 po ;2;Une main. 1d8. 20/x2. Tranchant. 4,5m;;;;;;;30;;;;;;60;;80;;;;;;;;;;;;;;;;;30;;;;;;;;;;
+Fourreau consacré [CM];4400 po ;1;;;;;;;;;20;;;;30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;30
+Fourreau d'affûtage;16000 po ;1;;;;;;;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;30
+Fourreau de ceinture;5 pa ;5;Nécessite une ceinture;;;;;;;;;;;100;;;;;;;;;;;;;;;;;;;;;100;;;;;;;;;;
+Fourreau d'harnachement ;6 pa ;3;Nécessite une selle;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40;80;;;;;;;;;;
+Fourreau dorsal ;7 pa ;3;Nécessite une bandouillière;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;80;;;;;;;;;;
+Frêlelame elfe [CM];50 po ;2;Légère. 1d6. 18/x2. Perforant;;;;;;;;;;;;;;;;;;;;;60;;;;;;;;;;;;;;;;;;;;;
+Fromage;2 pa ;10;50g (1 portion);;;;;60;;;;;;;;80;;100;;;;;;;80;;;;;;;;;;;;;;;;;;;;
+Fromage de chèvre;1 po ;10;50g (1 portion);;;;;20;;;;;;;;80;;;;100;;;;;80;;;;;;;;;;;;;;;;;;;;
+Fronde;5 pc;5;Distance. 1d4. 20/x2.Contondant. 15m;;;;;;;;;;100;;;;;;;;;;;;;;;;;;;;80;;100;;;;;;;;;;
+Fruits & Légumes;4 pc;20;Sac 1kg (5 portions);;;;;;;;;;;;;;;;;;;;;;80;60;;;100;;;;;;;;;;;;;;;;
+Gantelet à lames (x1) [C&A] ;30 po ;2;Légère. 1d4. 19/x2. Perforant ou Tranchant;;;;40;;;;20;;;;;;;;;;;;;40;;;;;;;;;;;;;;;;;20;;;;
+Gantelet d'armes (x1);8 po ;3;;;;;75;;;;20;;;;;;;;;;;80;;40;;;;;;;;;;;;;;;;;;;;;
+Gantelet de garde (x1) [C&A];10 po ;2;;;;;40;;;;20;;;;;;;;;;;;;40;;;;;;;;;;;;;;;;;;;;;
+Gantelet de rouille (x1);11500 po ;1;;;;;15;;;;30;;;;;;;;;;;10;;;;;;;;;;;;;;;;;;;;;;;35
+Gants : Dextérité (+2);4000 po ;3;;;;;;;;;35;;;;;;;;;;;20;;;;;;;;;;;;;10;;;;;;;;;;60
+Gants : Dextérité (+4);16000 po ;2;;;;;;;;;20;;;;;;;;;;;10;;;;;;;;;;;;;;;;;;;;;;;40
+Gants : Dextérité (+6);36000 po ;1;;;;;;;;;30;;;;;;;;;;;5;;;;;;;;;;;;;;;;;;;;;;;20
+Gants antiprojectile;4000 po ;1;;;;;;;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;60
+Gants de cuir;6 pc;5;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40;;60;;;;;;;;;;
+Gants de fourrure;1 pa ;5;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40;;60;;;;;;;;;;
+Gants de nage et d'escalade;6250 po ;1;;;;;;;;;20;;10;;;;;;;;;;;;;;;;;;;;;;;;;;;;10;;;;50
+Gants de rangement ;10000 po ;1;;;;;;;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;35
+Gants en tissus;2 pc;8;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;80;
+Garrot fil de fer [O&L];2 po ;4;Légères. 1d8. 18/x3. Tranchant;;;;;;;;;;;;;;;;;;;;;40;;;;;;;;;;;;;;;;;80;;;;
+Gel de l'anguille [CA];20 po ;20;;50;25;;;;;;40;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;20;;;;70
+Gelée royale (miel);6 pa ;5;20g (1 portion);;;;;30;;;;;;;;;;;;;;;;;80;;;;60;;;70;;;;;;;;;;;;;
+Gemme : 1 Améthyste;10 po ;4;;;;;;;90;;80;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gemme : 2 Topaze;16 po ;4;;;;;;;80;;70;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gemme : 3 Opale;20 po ;3;;;;;;;70;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gemme : 4 Saphir;40 po ;3;;;;;;;60;;50;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gemme : 5 Rubis;50 po ;2;;;;;;;50;;40;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gemme : 6 Émeraude;60 po ;2;;;;;;;40;;30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gemme : 7 Diamant;100 po ;1;;;;;;;30;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Gilet de fourrure;2 pa ;3;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;25;;40;;;;;;;;;;
+Gilet en cuir;9 pc;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;80;;;;;;;;;;
+Gilet en suède;1 pa 5 pc;3;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;50;;;;;;;;;;
+Gilet en tissus;6 pc;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;80;
+Grains/Foins;1 pa ;50;Poche 5kg (un jour de ration pour une monture);;;;;;;;;;;;;100;;80;;;80;;;;80;70;;;100;;;;;;;;;;;;;;;;
+Graisse d'enclenchement [CA];20 po ;15;;50;25;;;;;;40;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;70
+Grand arc [CM];150 po ;3;Distance. 1d10. 20/x3. Perforant. 36m;;;80;;;;;;;50;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Grand arc composite [CM];200 po ;1;Distance. 1d10. 20/x3. Perforant. 39m;;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Grande hache;20 po ;3;Deux mains. 1d12. 20/x3. Tranchant;;;;;;;;;;;;;;;;;;;;;80;;;;;;;;;;;;;;;;;;;;;
+Grande harpe [O&L];10 po ;3;Malus -2 aux jets de sauvegarde vs coercition (adversaire);;;;;;;;65;;;;;;;;;;;;;;;;;;;;;;;;;80;;100;;;;;;;
+Grande harpe de maître (+2) [O&L];200 po ;2;Malus -2 aux jets de sauvegarde vs coercition (adversaire);;;;;;;;40;;;;;;;;;;;;;;;;;;;;;;;;;60;;70;;;;;;;
+Grappin;2 po ;5;;;;;80;;;;;;100;;;;;;;;;;;40;;;;;;;;;40;;;;;;;;;;;;
+Guisarme;9 po ;4;Deux mains. 2d4. 20/x3. Tranchant;;;;;;;;;;;;;;;;;;;;;60;;;;;;;;;;;;;;;;;;;;;
+Habits de cour;30 po ;5;Tenue complête. Bonus +2 aux compétences liée au Charisme.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;80;;;;60;;;;;;;100;
+Habits de fourrure;8 po ;5;Tenue complête. Bonus +4 aux tests d'endurance au froid;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;100;;80;;;;;;;;
+Habits de noble;75 po ;4;Tenue complête. Bonus +4 aux compétences liée au Charisme.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;80;;;;60;;;;;;;50;
+Habits de paysan;1 pa ;8;Tenue complête;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;80;;;;100;;;;;;;100;
+Hache d'armes;10 po ;3;Une main. 1d8. 20/x3. Tranchant;;;;;;;;;;;;;;;;;;;;;80;;;;;;;;;;;;;;;;;;;;;
+Hache de guerre naine;30 po ;1;Une main. 1d10. 20/x3. Tranchant;;;;;;;;;;;;;;;;;;;;;40;;;;;;;;;;;;;;;;;;;;;
+Hache de lancer;8 po ;1;Légère. 1d6. 20/x2. Tranchant. 3m;;;;;;;;;;;;;;;;;;;;;40;;;;;;;;;;;;;;;;;;;;;
+Hache double orque;60 po ;1;Deux mains. 1d8/1d8. 20/x3. Tranchant;;;;;;;;;;;;;;;;;;;;;40;;;;;;;;;;;;;;;;;;;;;
+Hache longue [CA];35 po ;3;Deux mains. 1d12. 20/x3. Tranchant;;;;;;;;;;;;;;;;;;;;;60;;;;;;;;;;;;;;;;;;;;;
+Hache-targe naine [CM];20 po ;1;Légère. 1d6. 20/x3. Tranchant;;;;;;;;;;;;;;;;;;;;;40;;;;;;;;;;;;;;;;;;;;;
+Hachette;6 po ;3;Légère. 1d6. 20/x3. Tranchant;;;;;;;;;;;;;;;;;;;;;80;40;;;;;;;;;;;;;;;;;;;;
+Hallebarde;10 po ;3;Deux mains. 1d10. 20/x3. Perforant ou Tranchant;;;;;;;;;;;;;;;;;;;;;80;;;;;;;;;;;;;;;;;;;;;
+Hameçons (G);2 pa 4 pc;20;3 hameçons, PR 4, Solidité selon métal;;;;;;;;40;;70;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Hameçons (M);1 pa 1 pc;20;3 hameçons, PR 3, Solidité selon métal;;;;;;;;;;80;;;;;;;;;;;;;;;;;;;;50;;;;;;;;;;;;
+Hameçons (P);5 pc;20;3 hameçons, PR 2, Solidité selon métal;;;;;;;;;;90;;;;;;;;;;;;;;;;;;;;60;;;;;;;;;;;;
+Hameçons (TG);5 pa ;20;3 hameçons, PR 5, Solidité selon métal;;;;;;;;40;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Hameçons (TP);2 pc;20;3 hameçons, PR 1, Solidité selon métal;;;;;;;;;;100;;;;;;;;;;;;;;;;;;;;70;;;;;;;;;;;;
+Harnois;1500 po ;2;Lourde. CA +8. Dex +1. ? -6. 35%. -3m;;;;30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Harnois de maître;1800 po ;1;Lourde. CA +8. Dex +1. ? -6. 35%. -3m;;;;10;;;;30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Harpe de suggestion;7500 po ;1;;;;;;;;;20;;;;;;;;;;;;;;;;;;;;;;;;;10;;10;;;;;;;50
+Havresac;4 po ;5;;;;;;;;;;;40;;;;;;;;;;;;;;;;;;;;;;100;;;;;;;;;;
+Havresac d'Hévard;2000 po ;2;;;;;;;;;35;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;70
+Herbes & Épices;6 pc;20;100g (herbe arômatique, épice, sucre, sel, poivre, etc) ;;;;;;;;;;40;;;;;;;;;;;;80;100;80;100;100;100;;100;80;;;;;;;;;;;;
+Hospitalisation;6 po ;0;Par jour;;;;;;;;;;;;40;;;;;;;;;;;;;;;;;;;;;;;;;;;;100;;
+Huile : Affûtage;750 po ;4;;;25;;;;;;30;;;;40;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Huile : Arme magique;50 po ;5;;;25;;;;;;30;;;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Huile : Arme magique suprême (+1);750 po ;4;;;25;;;;;;30;;;;40;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Huile : Arme magique suprême (+2);1200 po ;3;;;25;;;;;;30;;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Huile : Flèches enflammées;750 po ;5;;;25;;;;;;30;;;;40;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Huile : Gourdin magique;50 po ;4;;;25;;;;;;30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Huile : Invisibilité;300 po ;2;;;25;;;;;;30;;;;40;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Huile : Lévitation;300 po ;2;;;25;;;;;;30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Huile : Lumière du jour;750 po ;4;;;25;;;;;;30;;;;60;;;;;;;;;;;;;;;;15;;;;;;;;;;;;;;
+Huile : Panoplie magique (+1);750 po ;4;;;25;;;;;;30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Huile : Pierre magique;50 po ;4;;;25;;;;;;30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Huile : Ténèbre;300 po ;4;;;25;;;;;;30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Instrument de musique (maître) sur mesure;250 po ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;80;;100;;;;;;;
+Jarre : Graisse;3 pa 6 pc;15;500ml;;;;;;;;;;;;;;;;;;;;100;;80;80;;80;;;80;;;;;;;;;;;;;;
+Jarre : Miel;4 pa ;10;500ml;;;;;;;;;;;;;;;;;;;;;;80;80;;;60;;;70;;;;;;;;;;;;;
+Jarre vide;6 pa ;10;500ml;;;;;;;;;;;;;;;;;;;;;;80;;;80;;;;;;;;;;;;100;;;;;
+Javeline;1 po ;5;Distance.  1d6. 20/x2. Perforant. 9m;;;;;;;;;;;;;;;;;;;;;40;;;;;;;;;;;;;;;;;;;;;
+Javelot à spirale [C&A];2 po ;5;Distance.  1d8. 19/x2. Perforant. 16m;;;;;;;;;;;;;;;;;;;;;40;;;;;;;;;;;;;;;;;;;;;
+Jeux;4 pa ;3;Cartes, dés;;;;;;;80;;;;;;;;;;;;;;;;;;;;;;;80;;;;;;;;;;;;
+Kama;2 po ;1;Légère. 1d6. 20/x2. Tranchant.;;;;;;;;;;;;;;;;;;;;;40;;;;;;;;;;;;;;;;;;;;;
+Kukri;8 po ;3;Légère. 1d4. 18/x2. Tranchant.;;;;;;;;;;;;;;;;;;;;;60;;;;;;;;;;;;;;;;;80;;;;
+Laboratoire d'alchimie (+4);1000 po ;2;Matériel complet (demande 3 mètres² d'espace);99;60;;;;;;40;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Lait de chèvre;1 pa ;20;1 litre;;;;;40;;;;;;;;80;;;;100;;;;;80;60;;;;;;;;;;;;;;;;;;;
+Lait de vache;2 pc;20;1 litre;;;;;60;;;;;;;;80;;100;;;;;;;80;70;;;;;;;;;;;;;;;;;;;
+Lajatang [CM];90 po ;2;Deux mains. 1d8/1d8. 20/x2. Tranchant;;;;;;;;;;;;;;;;;;;;;60;;;;;;;;;;;;;;;;;;;;;
+Lampe (métal);4 pa ;5;;;;;;;;;;;;;;;;;;;;;;40;;;;;;;100;;80;;;;;;;;;;;;
+Lampe (terre cuite);2 pa ;5;;;;;;;;;;;;;;;;;;;;;;;;;;;;;100;;80;;;80;;;;100;;;;;
+Lance;2 po ;4;Deux mains. 1d8. 20/x2. Perforant. 6m;;;;;;;;;;;;;;;;;;;;;80;;;;;;;;;;;;;;;;;;;;;
+Lance d'arçon;10 po ;2;Deux mains. 1d10. 20/x3. Perforant;;;;;;;;;;;;;;;;;;;;;60;;;;;;;;;;;;;;;;;;;;;
+Lanterne;14 po ;3;;;;;;;;100;;;;;;;;;;;;;;;;;;;;;100;;60;;;;;;;;;;;;
+Livre (connaissance);200 po ;3;;;;;;;;;35;;;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;100;;;
+Longue-vue;1000 po ;2;;;;;;;;100;60;;;;;;;;;;;;;;;;;;;;80;;;;;;;;;;50;;;;
+Loupe;200 po ;2;Bonus +2 tests d'estimation (petits objets uniquement);40;;;;;;;70;;;;;;;;;;;;;;;;;;;;60;;;;;;;;;;50;100;;;
+Loupe de détection;3500 po ;1;;;;;;;;;20;;;;;;;;;;;;;;;;;;;;15;;;;;;;;;;;;;;70
+Lunettes d'expertise magique [CA];2500 po ;1;;;;;;;;;20;;;;40;;;;;;;;;;;;;;;;15;;;;;;;;;;;10;;;70
+Lustrargent;250 po ;5;;40;;;;;;;40;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;70
+Luth [O&L];10 po ;3;Deux musiques de barde simultanées;;;;;;;;65;;;;;;;;;;;;;;;;;;;;;;;;;80;;100;;;;;;;
+Luth de maître (+2) [O&L];200 po ;2;Deux musiques de barde simultanées;;;;;;;;40;;;;;;;;;;;;;;;;;;;;;;;;;60;;70;;;;;;;
+Lyre [O&L];10 po ;3;Bonus +2 tests de représentation vs fée et animaux;;;;;;;;65;;;;;;;;;;;;;;;;;;;;;;;;;80;;100;;;;;;;
+Lyre de maître (+2) [O&L];200 po ;2;Bonus +2 tests de représentation vs fée et animaux;;;;;;;;40;;;;;;;;;;;;;;;;;;;;;;;;;60;;70;;;;;;;
+Main du mage;900 po ;3;;;;;;;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;70
+Mainsûre [CA];20 po ;10;;40;;;;;;;40;;;;;;;;;;;;;;;;;;;;;;10;;;;;;;;;;;;70
+Malle en bois;3 po ;4;1m x 40cm x 40cm (solidité 5 PR 8);;;;;;;;;80;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Manteau de fourrure;5 pa ;3;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;25;;40;;;;;;;;;;
+Manteau en cuir;1 pa 5 pc;3;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;80;;;;;;;;;;
+Manteau en suède;2 pa 5 pc;3;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;50;;;;;;;;;;
+Manteau en tissus;1 pa ;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;80;
+Manuel (compétence);300 po ;3;;;;;;;;;35;;;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;100;;;
+Maquillage/Déguisement;50 po ;3;Déguisement +2 (10 charges);;;;;;;;20;;;;;;;;;;;;;;;;;;;;;;40;;;80;100;;;;40;;;;
+Marteau de guerre;12 po ;3;Une main. 1d8. 20/x3. Contondant;;;;;;;;;;;;;;;;;;;;;60;;;;;;;;;;;;;;;;;;;;;
+Marteau double [CM];70 po ;2;Deux mains. 1d8/1d8. 20/x3. Contondant;;;;;;;;;;;;;;;;;;;;;60;;;;;;;;;;;;;;;;;;;;;
+Masque de la camarde;22000 po ;1;;;;;;;;;15;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;25
+Masse d'armes légère;5 po ;3;Légère. 1d6. 20/x2. Contondant;;;;;;;;;;;;;;;;;;;;;80;;;;;;;;;;;;;;;;;;;;;
+Masse d'armes lourde;12 po ;3;Une main. 1d8. 20/x2. Contondant;;;;;;;;;;;;;;;;;;;;;80;;;;;;;;;;;;;;;;;;;;;
+Matériel d'escalade;6 po ;5;Corde 30mètres, Grappin, 4x Pitons;;;;;;;;;;80;;;;;;;;;;;;;;;;;;;;;;;;;;;;80;;;;
+Menottes;30 po ;3;DD15. PR 5, Solidité selon métal;;;;;;;80;;;;;;;;;;;;;;40;;;;;;;;;40;;;;;;;;80;;;;
+Menottes de maître;150 po ;3;DD25. PR 8, Solidité selon métal;;;;;;;50;;;;;;;;;;;;;;10;;;;;;;;;;;;;;;;;50;;;;
+Menottes de qualité supérieure;70 po ;3;DD20. PR 8, Solidité selon métal;;;;;;;70;;;;;;;;;;;;;;20;;;;;;;;;;;;;;;;;70;;;;
+Meuble en bois;3 po 6 pa ;4;Un gros article ou quatre petits;;;;;;;;;100;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Morgenstern;8 po ;3;Une main. 1d8. 20/x2. Contondant et Perforant;;;;;;;;;;;;;;;;;;;;;60;;;;;;;;;;;;;;;;;;;;;
+Musette;8 pa ;5;;;;;;;;;;;80;;;;;;;;;;;;;;;;;;;;80;;90;;;;;;;;;;
+Nécessaire de faussaire [CA];40 po ;2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;10;;;30;;80;20;;;
+Noix;8 pc;20;Sac 100g (2 portions);;;;;;;;;;;;;;;;;;;;;;80;60;;80;100;80;;;;;;;;;;;;;;;
+Objet merveilleux d'Armure naturelle (+1) sur mesure;2500 po ;0;Objet sur mesure (type);;;;;;;;;;;;80;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;100
+Objet merveilleux d'Armure naturelle (+2) sur mesure;9000 po ;0;Objet sur mesure (type);;;;;;;;;;;;50;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;100
+Objet merveilleux d'Armure naturelle (+3) sur mesure;20000 po ;0;Objet sur mesure (type);;;;;;;;;;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;70
+Objet merveilleux de Caractéristique (+2) sur mesure;4500 po ;0;Objet sur mesure (type & caractéristique);;;;;;;;;;;;80;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;100
+Objet merveilleux de Caractéristique (+4) sur mesure;17000 po ;0;Objet sur mesure (type & caractéristique);;;;;;;;;;;;50;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;100
+Objet merveilleux de Caractéristique (+6) sur mesure;38000 po ;0;Objet sur mesure (type & caractéristique);;;;;;;;;;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;70
+Objet merveilleux de Compétences (+5) sur mesure;2500 po ;0;Objet sur mesure (type & compétence);;;;;;;;;;;;80;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;100
+Œufs de poule;4 pc;20;Panier 8 oeufs (4 portions);;;;;;;;;;;;;80;100;;;;;;;;80;60;;;50;;;;;;;;;;;;;;;;
+Œufs d'oie;2 pa ;15;Panier 8 oeufs (8 portions);;;;;;;;;;;;;80;100;;;;;;;;80;40;;;;;;;;;;;;;;;;;;;
+Onguent des roches;4000 po ;1;;;;;;;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;60
+Ornements et broderies sur mesure;4 pa ;0;Par 10cm carré;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;100;
+Outils d'artisan;5 po ;10;Bonus +2 tests d'artisanat ;;;100;90;;;100;;100;;100;;;;;;;;;;100;40;;;;50;;;;100;100;100;100;;100;100;100;;;;100;
+Outils de cambrioleur;30 po ;3;Crochetage, Désamorçage +2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;100;;;;
+Outils de cambrioleur à long manche [CA];80 po ;1;Crochetage, Désamorçage +2. Portée 3m;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;80;;;;
+Outils de cambrioleur de qualité supérieure;100 po ;1;Crochetage, Désamorçage +4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;60;;;;
+Outils de maître artisan;55 po ;10;Bonus +4 tests d'artisanat ;;;80;90;;;80;;80;;80;;;;;;;;;;80;40;;;;50;;;;100;80;80;100;;80;80;80;;;;80;
+Outils de paysans;1 po ;10;Pelle, pioche, bèche, etc;;;;90;;;80;;;;;;;;;;;;;;;40;;;;50;;;;100;;;;;;;80;;;;;
+Outils d'Hygiène;6 pa ;5;Brosse, peigne, rasoir, miroir, etc;;;;;;;90;;;;;;;;;;;;;;;;;;;;;;;80;;;;100;;;100;;;;;
+Outre 1 litre;2 pa ;10;x1,5/litre suppl. max 5 litres;;;;;;;;;;80;;;;;;;;;;;;;;;;;;;;80;;90;;;;;;;;;;
+Paillasse;2 pa ;10;;;;;;;;;;;80;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Pain;4 pc;15;1 baguette/miche (1 portion);;;;;100;;;;;;;;;;;;;;;;;80;100;;;;;;;;;;;;;;;;;;;
+Pain de seigle;6 pc;15;1 baguette/miche (1 portion);;;;;70;;;;;;;;;;;;;;;;;80;100;;;;;;;;;;;;;;;;;;;
+Pantalon de cuir;1 pa 2 pc;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;80;;;;;;;;;;
+Pantalon de suède;2 pa ;3;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;50;;;;;;;;;;
+Pantalon de tissus;8 pc;8;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;80;
+Pantalons de fourrure;1 pa 5 pc;3;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;25;;40;;;;;;;;;;
+Papier (Parchemin vierge);4 pa ;20;;;;;;;;;;;;;100;;;;;;;;;;;;;;;;;;;;;100;;70;100;;;100;;;100
+Parchemin Magique Niv 1 sur mesure;50 po ;0;;;;;;;;;;;;;100;;;;;;;;;;;;;;;;;;;;;;;;;;;50;;;100
+Parchemin Magique Niv 2 sur mesure;300 po ;0;;;;;;;;;;;;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;100
+Parchemin Magique Niv 3 sur mesure;750 po ;0;;;;;;;;;;;;;25;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;70
+Pâté de campagne;5 pa ;10;200g (1 portion);;;;;80;;;;;;;;80;;;;100;;;100;;80;;;100;;;;;;;;;;;;;;;;;
+Pâtisseries;2 pa ;10;1 portion;;;;;80;;;;;;;;;;;;;;;;;80;90;;;;;;;;;;;;;;;;;;;
+Pavois;30 po ;2;Att -4. CA +4. Dex +2. ? -10. 50%.;;;;80;;;;30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Perle de thaumaturgie (niv 1);1000 po ;2;;;;;;;15;;30;;;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;70
+Perle de thaumaturgie (niv 2);4000 po ;1;;;;;;;10;;20;;;;30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40
+Perle des sirènes;15300 po ;1;;;;;;;10;;20;;5;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;35
+Petite harpe [O&L];10 po ;3;Deux musiques de barde simultanées;;;;;;;;65;;;;;;;;;;;;;;;;;;;;;;;;;80;;100;;;;;;;
+Petite harpe de maître (+2) [O&L];200 po ;2;Deux musiques de barde simultanées;;;;;;;;40;;;;;;;;;;;;;;;;;;;;;;;;;60;;70;;;;;;;
+Pied-de-biche;4 po ;5;Bonus +2 tests de destruction;;;;90;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;80;;;;
+Pied-Léger [CA];50 po ;10;;40;;;;;;;40;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;70
+Piège à machoire (G 4d4);120 po ;2;DD selon qualité, Solidité selon métal;;;;;;;100;;;100;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Piège à machoire (M 3d4);60 po ;4;DD selon qualité, Solidité selon métal;;;;;;;90;;;90;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Piège à machoire (P 2d4);30 po ;7;DD selon qualité, Solidité selon métal;;;;;;;80;;;80;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Piège à machoire (TP 1d4);20 po ;10;DD selon qualité, Solidité selon métal;;;;;;;60;;;70;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Pierre à aiguiser;4 pa ;10;;;;;90;;;;;;;;;;;;;;;;;;;;;;;;;;100;;;;;;;;80;;;;
+Pierre à tonnerre;30 po ;5;;30;;;;;;;30;;;;;;;;;;;;;;;;;;;;20;;;;;;;;;;30;;;;
+Pierre d'alerte;2700 po ;2;;;;;;;;;20;;;;;;;;;;;;;;;;;;;;20;;;;;;;;;;;;;;70
+Pierre d'ioun (Blanc laiteux);20000 po ;1;Régénération (1 pv/heure);;;;;;;;10;;;;25;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;25
+Pierre d'ioun (Bleu incandescent);8000 po ;1;Bonus d'altération de +2 en Sagesse;;;;;;;;20;;;;40;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40
+Pierre d'ioun (Bleu nuit);10000 po ;1;Vigilance (comme le don);;;;;;;;15;;;;35;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;35
+Pierre d'ioun (Bleu pâle);8000 po ;1;Bonus d'altération de +2 en Dextérité;;;;;;;;20;;;;40;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40
+Pierre d'ioun (Irisée);18000 po ;1;Permet de subsister sans respirer;;;;;;;;15;;;;30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;30
+Pierre d'ioun (Lavande);20000 po ;1;Absorbe des sorts jusqu'au niveau 4;;;;;;;;10;;;;25;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;25
+Pierre d'ioun (Orange);30000 po ;1;Bonus +1 au niveau de lanceur de sorts;;;;;;;;10;;;;25;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;25
+Pierre d'ioun (Rose et verte);8000 po ;1;Bonus d'altération de +2 en Charisme;;;;;;;;20;;;;40;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40
+Pierre d'ioun (Rose laiteux);5000 po ;1;Bonus d'intuition de +1 à la CA;;;;;;10;;30;;;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;60
+Pierre d'ioun (Rose vif);8000 po ;1;Bonus d'altération de +2 en Constitution;;;;;;;;20;;;;40;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40
+Pierre d'ioun (Rouge et bleue);8000 po ;1;Bonus d'altération de +2 en Intelligence;;;;;;;;20;;;;40;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40
+Pierre d'ioun (Rouge sang);8000 po ;1;Bonus d'altération de +2 en Force;;;;;;;;20;;;;40;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40
+Pierre d'ioun (Translucide);4000 po ;1;Permet de subsister sans boire ni manger;;;;;;15;;40;;;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;60
+Pierre d'ioun (Vert pâle);30000 po ;1;Bonus +1 attaque, sauvegarde et compétence;;;;;;;;10;;;;25;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;25
+Pierres de message [CP];15000 po ;1;;;;;;;;;15;;;;35;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;35
+Pigments merveilleux de Nolzur;4000 po ;1;;;;;;;;;20;;;;;;;;;;;;;;;;;;;;;;;;;10;;;30;;;;;;60
+Pinceau;4 pa ;5;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;50;;;80;;;100;;;;;;
+Pipe à tabac;4 pc;3;;;;;;;;100;;;;;;;;;;;;;;;;;;;;;;;80;;;;;;;;;;;;
+Plume de Quaal (ancre);50 po ;3;Permet d'amarrer une embarcation;;;;;;;;35;;15;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;70
+Plume de Quaal (arbre);400 po ;2;Fait jaillir du sol un chêne de 18m de haut;;;;;;;;30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;50
+Plume de Quaal (éventail);200 po ;2;Crée un courant d'air en mer;;;;;;;;30;;15;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;70
+Plume de Quaal (fouet);500 po ;2;Se transforme en fouet (arme dansante);;;;;;;;30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;50
+Plume de Quaal (oiseau);300 po ;2;Transmet un message (pigeon voyageur);;;;;;;;30;;;;40;;;;;;;;;;;;;;;;;;;;;;;;;;;40;;;50
+Plume d'écriture;2 pa ;5;;;;;;;;;;;;;80;;;;;;;;;;;;;;;;;;60;;;100;;70;100;;;100;;;100
+Poêle en métal;1 pa ;5;;;;;60;;;80;;;60;;;;;;;;;;;60;;;;;;;;;80;;;;;;;;;;;;
+Poids orque [C&A];10 po ;3;Distance.  2d6. 19/x3. Contondant. 3m;;;;;;;;;;;;;;;;;;;;;40;;;;;;;;;;;;;;;;;;;;;
+Pointes pour armure;50 po ;4;;;;;80;;;;;;;;;;;;;;;;;80;;;;;;;;;;;;;;;;;;;;;
+Pointes pour bouclier;10 po ;4;Rondache 1d4. Écu 1d6. 20/x2;;;;80;;;;;;;;;;;;;;;;;80;;;;;;;;;;;;;;;;;;;;;
+Poisson frais;4 pa ;15;;;;;;;;;;;100;;;;;;;;;;;;80;;;;;;;;;;;;;;;;;;;;
+Pommade du Faucon [CA];50 po ;10;;40;25;;;;;;40;;20;;;;;;;;;;;;;;;;;20;;;20;;;;;;;;;;;;70
+Pot : Beurre;2 pc;10;100g;;;;;;;;;;;;;;;100;;;;;;;80;100;;;50;;;;30;;;;;;;;;;;;
+Pot : Confiture;8 pc;15;100ml;;;;;;;;;;;;;;;;;;;;;;80;80;;;100;;;;30;;;;;;;;;;;;
+Pot : Encre;6 po 4 pa ;5;100ml (10 feuilles);;;;;;;;;;;;80;;;;;;;;;;;;;;;;;;60;;;100;;70;100;;;100;;;100
+Pot : Peinture;4 po ;5;100ml (3 feuilles);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40;;;100;;;100;;;;;;
+Potion : Agrandissement;250 po ;2;;25;;;;;;;30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Potion : Armure de mage;50 po ;2;;25;;;;;;;30;;;;30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Potion : Bouclier de la foi (+2);50 po ;3;;25;;;;;;;30;;;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Potion : Délivrance de la paralysie;300 po ;2;;25;;;;;;;30;;;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Potion : Don des langues;750 po ;4;;25;;;;;;;30;;;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Potion : Endurance aux énergies destructives;50 po ;2;;25;;;;;;;30;;;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Potion : Endurance de l'ours;300 po ;2;;25;;;;;;;30;;;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Potion : Flou;300 po ;4;;25;;;;;;;30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Potion : Force du taureau;300 po ;2;;25;;;;;;;30;;;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Potion : Grâce féline;300 po ;2;;25;;;;;;;30;;;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Potion : Guérison de la cécité/surdité;750 po ;3;;25;;;;;;;30;;;;100;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Potion : Invisibilité pour les animaux;50 po ;5;;25;;;;;;;30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Potion : Invisibilité pour les morts-vivants;50 po ;5;;25;;;;;;;30;;;;100;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Potion : Marche sur l'onde;750 po ;6;;25;;;;;;;30;;;;30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Potion : Morsure magique;50 po ;3;;25;;;;;;;30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Potion : Passage sans trace;50 po ;2;;25;;;;;;;30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;20;;;;
+Potion : Pattes d'araignée;300 po ;3;;25;;;;;;;30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;20;;;;
+Potion : Peau d'écorse (+2);300 po ;3;;25;;;;;;;30;;;;30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Potion : Peau d'écorse (+3);600 po ;2;;25;;;;;;;30;;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Potion : Peau d'écorse (+4);900 po ;2;;25;;;;;;;30;;;;10;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Potion : Protection contre (Alignement);50 po ;10;;25;;;;;;;30;;;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Potion : Rage;750 po ;3;;25;;;;;;;30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Potion : Rapetissement;250 po ;1;;25;;;;;;;30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;20;;;;
+Potion : Rapidité;750 po ;2;;25;;;;;;;30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;20;;;;
+Potion : Regain d'assurance;50 po ;3;;25;;;;;;;30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Potion : Respiration aquatique;750 po ;6;;25;;;;;;;30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Potion : Ruse du renard;300 po ;2;;25;;;;;;;30;;;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Potion : Sagesse du hibou;300 po ;2;;25;;;;;;;30;;;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Potion : Sanctuaire;50 po ;3;;25;;;;;;;30;;;;80;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Potion : Saut;50 po ;5;;25;;;;;;;30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;20;;;;
+Potion : Soins importants;750 po ;4;;25;;;;;;;30;;;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;60;;
+Potion : Soins légers;50 po ;8;;25;;;;;;;30;;;;100;;;;;;;;;;;;;;;;;;;;;;;;;;;;90;;
+Potion : Soins modérées;300 po ;4;;25;;;;;;;30;;;;80;;;;;;;;;;;;;;;;;;;;;;;;;;;;80;;
+Potion : Splendeur de l'aigle;300 po ;2;;25;;;;;;;30;;;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Potion : Vision dans le noir;300 po ;4;;25;;;;;;;30;;;;;;;;;;;;;;;;;;;;20;;;;;;;;;;20;;;;
+Potion : Vol;750 po ;3;;25;;;;;;;30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Potions et Huiles magiques sur mesure;60 po ;0;Prix par niveau de sort;100;100;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;70
+Poudre de dispersion [CP];2100 po ;1;;15;25;;;;;;40;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;20;;;;70
+Poudre dessicative;850 po ;3;;15;25;;;;;;40;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;70
+Poudre d'ouïe fine [CA];20 po ;5;;15;25;;;;;;40;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;70
+Poudre du voile noir [CP];750 po ;3;;;;;;;;;30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;70
+Puanteur féline [CA];50 po ;5;;40;25;;;;;;40;;20;;;;;;;;;;;;;;;;;20;;;;;;;;;;;;;;;70
+Rames (x2);4 po ;5;;;;;;;;;;100;90;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Rapière;20 po ;3;Une main. 1d6. 18/x2. Perforant;;;;;;;;;;;;;;;;;;;;;60;;;;;;;;;;;;;;;;;;;;;
+Ration de survie;4 po ;20;Un jour;;;;;;;;;;100;;;;;;;;;;;;;;;;;;;;100;;;;;;;;;;;;
+Repas frais;2 pa ;25;;;;;;100;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Robe de bal en soie et dentelles;60 po ;2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;60;
+Robe de camelot;7000 po ;1;;;;;;;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;10;;;;;;;;50
+Robe de mimétisme;30000 po ;1;;;;;;;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;5;;;;10;;;;25
+Robe longue en tissus;12 po ;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;100;
+Robe longue en tissus et dentelles;25 po ;3;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;80;
+Rondache en bois;3 po ;3;Légère. 1d3. 20/x2. Contondant. CA +2. ? -1. 5%;;;;;;;;30;80;;;;;;;;;;;;;;;;;;;;;40;;;;;;;;;;;;
+Rondache en métal;9 po ;3;Légère. 1d3. 20/x2. Contondant. CA +2. ? -1. 5%;;;;80;;;;30;;;;40;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Sablier;50 po ;3;;;;;;;;100;60;;;;;;;;;;;;;;;;;;;;;;;;;80;80;80;60;40;;;;;
+Sac : Laine;3 po ;20;Sac 500g;;;;;;;;;;;;;80;;;;100;;;;;;;;;;;;;;;;;;;;;;;;;
+Sac : Plume;5 pa ;20;Sac 500g;;;;;;;;;;;;;80;100;;;;;100;;;;;;;;;;;;;;60;;;;;;;;;
+Sac à malice (gris);900 po ;1;;;;;;;;;35;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;70
+Sac à malice (ocre);6300 po ;1;;;;;;;;;30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;50
+Sac à malice (rouille);3000 po ;1;;;;;;;;;25;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;70
+Sac sans fond;2500 po ;1;;;;;;;;;30;;;;;;;;;;;;;;;;;;;;15;;;;;;;;;;10;;;;70
+Sacoche à composante;10 po ;4;;80;90;;;;;;50;;;;40;;;;;;;;;;;;;;;40;;;;;25;;;;;;;;;;
+Sacoche à potion;10 po ;4;5 compartiments;80;100;;;;;;50;;;;40;;;;;;;;;;;;;;;;;;;;25;;;;;;;;;;
+Sacoche de selle;5 pa ;3;;;;;;;;;;;;;;;;;;;70;;;;;;;;;;;;;80;80;;;;;;;;;;
+Sacoche immobilisante;100 po ;10;;80;25;;;;;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;30;;;;
+Sai;1 po ;3;Légère. 1d4. 20/x2. Contondant;;;;;;;;;;;;;;;;;;;;;60;;;;;;;;;;;;;;;;;;;;;
+Sandales de cuir;2 pa ;6;;;;;;;;;;;;100;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Savon;2 pc;5;1 barre (15 charges);80;;;;;;;;;;;;;;;;;;;;;40;;;;;100;60;;80;;;;;;;;;;;;
+Sceptre : Détection des métaux et minéraux;10500 po ;1;;;;;;;;;15;;;;35;;;;;;;;;;;;;;;;;;;;;;;;;10;;;;;35
+Sceptre : Extinction des feux;15000 po ;1;;;;;;;;;15;;;;35;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;35
+Sceptre : Fureur +1 [CP];26800 po ;1;;;;;;;;;10;;;;25;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;25
+Sceptre : Inamovible;7500 po ;1;;;;;;;;;20;;;;35;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;50
+Sceptre : Merveilleux;12000 po ;1;;;;;;;;;20;;;;35;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;35
+Sceptre : Métamagie mineure;3000 po ;1;;;;;;;;;20;;;;35;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;70
+Sceptre : Oblitération;11000 po ;1;;;;;;;;;15;;;;35;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;35
+Sceptre : Python;13000 po ;1;;;;;;;;;15;;;;35;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;35
+Sceptre : Vipère;19000 po ;1;;;;;;;;;10;;;;35;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;30
+Sceptre d'interférence [CP];72000 po ;1;;;;;;;;;5;;;;15;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;15
+Sceptre du sorcier [CP];28000 po ;1;;;;;;;;;10;;;;35;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;25
+Sculpture (bois) sur mesure;4 pa ;0;Par 10cm carré;;;;;;;;;50;;;;;;;;;;;;;;;;;;;;;;;;60;;;;100;;;;;
+Sculpture (métal) sur mesure;7 pa ;0;Par 10cm carré;;;;;;;;;;;;;;;;;;;;;30;;;;;;;;;;;;60;;;;100;;;;;
+Sculpture (terre cuite) sur mesure;3 pa ;0;Par 10cm carré;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;60;;;;100;;;;;
+Sculpture (verre) sur mesure;12 po ;0;Par 10cm carré;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;40;;;;80;;;;;
+Séjour;2 pa ;0;Par jour;;;;;100;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Selle de bat;10 po ;3;Grand sac pour bête de somme;;;;;;;;;;;;;;;;;;90;;;;40;;;;;;;;;75;80;;;;;;;;;;
+Selle de guerre (+2);40 po ;2;Bonus aux tests d'équitation. 75% d'éviter une chute;;;;;;;;;;;;;;;;;;60;;;;;;;;;;;;;60;;;;;;;;;;;
+Selle d'équitation;20 po ;3;50% d'éviter une chute;;;;;;;;;;;;;;;;;;90;;;;;;;;;;;;;75;80;;;;;;;;;;
+Serre-tête de lumière destructrice;6480 po ;1;;;;;;;;;20;;;;40;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;50
+Sérum de vérité;500 po ;1;;50;25;;;;;;25;;;;40;;;;;;;;;;;;;;;20;;;;;;;;;;;;;;;
+Services médicaux;1 po ;0;Opérations légères, Premiers soins mineurs;;;;;;;;;;;;100;;;;;;;;;;;;;;;;;;;;;;;;;;;;100;;
+Services médicaux avancé;850 po ;0;Délivrance de malédiction, Régénération de membre tranché;;;;;;;;;;;;80;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Services médicaux supérieur;100 po ;0;Soins et guérisons magiques;;;;;;;;;;;;100;;;;;;;;;;;;;;;;;;;;;;;;;;;;100;;
+Shuriken (x5);1 po ;10;Distance.  1d2. 20/x2. Perforant. 3m;;;;;;;;;;;;;;;;;;;;;40;;;;;;;;;;;;;;;;;;;;;
+Siangham;3 po ;3;Légère. 1d6. 20/x2. Perforant;;;;;;;;;;;;;;;;;;;;;40;;;;;;;;;;;;;;;;;;;;;
+Sifflet;8 pa ;3;;;;;;;;80;;;;;;;;;;;;;;;;;;;;;;;80;;;;;;;;;;;;
+Silex et amorce;8 pa ;3;;;;;;;;80;;;100;;;;;;;;;;;;;;;;;;;;80;;;;;;;;;;;;
+Sirop d'harmonie avec la nature [CA];50 po ;5;;25;;;;;;;30;;10;;;;;;;;;;;;;;;;;20;;;;;;;;;;;;;;;70
+Solvant universel;50 po ;10;;80;25;;;;;;40;;;;;;;;;;;;;;;;;;;80;20;;;;;;;;;70;;;;;
+Statuette merveilleuse (corbeau d'argent);3800 po ;1;;;;;;;;;20;;;;40;;;;;;;;;;;;;;;;;;;;;10;;;;15;;;;;70
+Statuette merveilleuse (griffon de bronze);10000 po ;1;;;;;;;;;15;;;;40;;;;;;;;;;;;;;;;;;;;;10;;;;15;;;;;35
+Statuette merveilleuse (mouche d'ébène);10000 po ;1;;;;;;;;;15;;;;40;;;;;;;;;;;;;;;;;;;;;10;;;;15;;;;;35
+Stylet de la main de maître [CA];3000 po ;1;;;;;;;;;30;;;;40;;;;;;;;;;;;;;;;;;;;;10;;;30;;10;10;;;70
+Suaire de désintégration;6600 po ;1;;;;;;;;;30;;;;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;50
+Symbole sacré en argent (+1);25 po ;2;Bonus aux tests de renvoi des morts-vivants;;;;;;;;50;;;;90;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Symbole sacré en argent (+2);75 po ;2;Bonus aux tests de renvoi des morts-vivants;;;;;;;;30;;;;70;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Symbole sacré en bois (+1);1 po ;2;Bonus aux tests de renvoi des morts-vivants;;;;;;;;60;;;;100;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Symbole sacré en bois (+2);3 po ;2;Bonus aux tests de renvoi des morts-vivants;;;;;;;;40;;;;80;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Tabac;4 pc;10;100g;;;;;;;;;;;;;;;;;;;;;;80;;;;;100;;;80;;;;;;;;;;;;
+Tabard de monture;8 pa ;3;;;;;;;;;;;;;;;;;;;80;;;;;;;;;;;;;40;;;;;;;;;;80;
+Tabard en cuir;1 pa 4 pc;2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;80;;;;;;;;;;
+Tabard en suède;2 pa 3 pc;3;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;50;;;;;;;;;;
+Tabard en tissus;9 pc;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;80;
+Tablier en cuir;6 pc;5;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;100;;;;;;;;;;
+Tablier en suède;1 pa ;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;60;;;;;;;;;;
+Tablier en tissus;4 pc;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;80;
+Tambour [O&L];10 po ;3;Bonus +2 vs Terreur (alliés);;;;;;;;65;;;;;;;;;;;;;;;;;;;;;;;;;80;;100;;;;;;;
+Tambour de maître (+2) [O&L];200 po ;2;Bonus +2 vs Terreur (alliés);;;;;;;;40;;;;;;;;;;;;;;;;;;;;;;;;;60;;70;;;;;;;
+Targe;15 po ;3;Bouclier. CA +1. ? -1. 5%;;;;80;;;;40;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Tente (1 place);20 po ;5;;;;;;;;;;;100;;;;;;;;;;;;;;;;;;;;80;;;;;;;;;;;80;
+Tente (2 places);50 po ;3;;;;;;;;;;;80;;;;;;;;;;;;;;;;;;;;50;;;;;;;;;;;60;
+Tente (4 places);110 po ;2;;;;;;;;;;;60;;;;;;;;;;;;;;;;;;;;30;;;;;;;;;;;40;
+Tenue d'artisan (cuir);2 po 6 pa ;5;Tenue complête;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;100;;80;;;;;;;;
+Tenue de voyage;1 po ;5;Tenue complête. Bonus +1 aux tests d'endurance.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;60;;;;;;;70;
+Tenue sacerdotale;5 po ;5;Tenue complête;;;;;;;;;;;;100;;;;;;;;;;;;;;;;;;;;;;60;;;;;;;70;
+Thé;2 pc;20;100g;;;;;100;;;;;;;;;;;;;;;;;80;;;;;100;;;80;;;;;;;;;;;;
+Tonnelet : Bière;3 po 4 pa ;10;25 litres;;;;;30;;;;;;;;;;;;;;;;;80;;100;;;;;;;;;;;;;;;;;;
+Tonnelet : Huile;20 po ;10;25 litres;;;;;;;;;;;;;;;;;;;;;;80;;;;;;;;;;;;;;;;;;;;
+Tonnelet : Vin ;10 po ;10;25 litres;;;;;20;;;;;;;;;;;;;;;;;80;;;;;;;100;;;;;;;;;;;;;
+Tonnelet vide;7 pa ;5;25 litres;;;;;;;;;80;;;;;;;;;;;;;80;;100;;;;;100;;;;;;;;;;;;;
+Torche ;2 pc;15;4 heures;;;;;;;;;;80;;;;;;;;;;;;;;;;;;90;;80;;;;;;;;;;;;
+Torche éternelle;110 po ;2;;50;;;;;;;50;;;;40;;;;;;;;;;;;;;;;40;;;;;;;;;;;;;;70
+Trident;15 po ;2;Une main. 1d8. 20/x2. Perforant;;;;;;;;;;;;;;;;;;;;;60;;;;;;;;;;;;;;;;;;;;;
+Trousse d'alchimie;110 po ;2;Outils d'artisan (+2) + 5x fioles vides + sacoche à composant;90;100;;;;;;70;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Trousse de premiers secours;100 po ;2;Bonus +4 tests de premiers secours;;;;;;;;60;;;;100;;;;;;;;;;;;;;;;;;80;;;;;;;;;;80;;
+Tunique en cuir;1 pa 2 pc;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;80;;;;;;;;;;
+Tunique en suède;2 pa ;3;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;50;;;;;;;;;;
+Tunique en tissus;8 pc;8;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;80;
+Urgosh nain;50 po ;1;Deux mains. 1d8/1d6. 20/x3. Perforant et Tranchant;;;;;;;;;;;;;;;;;;;;;40;;;;;;;;;;;;;;;;;;;;;
+Vaisselle (bois);1 po ;5;Un gros article ou quatre petits;;;;;;;;;100;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Vaisselle (métal);3 po ;5;Un gros article ou quatre petits;;;;;;;;;;;;;;;;;;;;;25;;;;;;;;;;;;;;;;80;;;;;
+Vaisselle (terre cuite);2 pa ;5;Un gros article ou quatre petits;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;80;;;60;;;;100;;;;;
+Vaisselle (verre);100 po ;5;Un gros article ou quatre petits;;;;;;30;;50;;;;;;;;;;;;;;;;;;;;;;80;;;;;;;60;;;;;
+Vasque pour carquois ;12 po ;5;1 fiole, 5 flèches;60;75;80;;;;;;;;;;;;;;;;;;;;;;;;;;;;;50;;;;;;75;;;;
+Vasque pour carquois supérieur;36 po ;3;2 fioles, 10 flèches;40;50;60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;25;;;;;;50;;;;
+Verre : Alcool fort;3 pa 2 pc;50;1oz;;;;;100;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Verre : Eau;1 pc;50;10 oz;;;;;100;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Verre : Lait;1 pc;50;10 oz;;;;;80;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Verre : Lait de chèvre;1 pc;50;10 oz;;;;;80;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Verre : Thé;1 pc;50;10 oz;;;;;80;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Vêtement de cuir sur mesure;3 pa ;0;1 article commun;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;100;;;;;;;;;;
+Vêtement de fourrure sur mesure;5 pa ;0;1 article commun;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;100;;;;;;;;;;
+Vêtement de tissus sur mesure;1 pa 5 pc;0;1 article commun;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;100;
+Viande crue (gros bétail);4 pa ;10;250g viande (1 portion);;;;;;;;;;;;;100;;100;;;100;;;;;;;;;;;;;;;;;;;;;;;;
+Viande crue (gros gibier);1 po 6 pa ;10;250g viande (1 portion);;;;;;;;;;100;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Viande crue (petit bétail);2 pa 4 pc;10;250g viande (1 portion);;;;;;;;;;;;;100;;;;100;;;100;;;;;;;;;;;;;;;;;;;;;;
+Viande crue (petit gibier);1 po ;10;250g viande (1 portion);;;;;;;;;;100;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Viande crue (volaille);1 pa 6 pc;10;250g viande (1 portion);;;;;;;;;;;;;100;100;;;;;;;;80;;;;;;;;;;;;;;;;;;;;
+Viande cuite/sèche (gros bétail);8 pa ;10;250g viande (1 portion);;;;;;;;;;;;;80;;100;;;100;;;;80;;;100;;;;;;;;;;;;;;;;;
+Viande cuite/sèche (gros gibier);3 po 2 pa ;10;250g viande (1 portion);;;;;;;;;;100;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Viande cuite/sèche (petit bétail);4 pa 8 pc;10;250g viande (1 portion);;;;;;;;;;;;;80;;;;100;;;100;;80;;;100;;;;;;;;;;;;;;;;;
+Viande cuite/sèche (petit gibier);2 po ;10;250g viande (1 portion);;;;;;;;;;100;;;;;;;;;;;;80;;;100;;;;;;;;;;;;;;;;;
+Viande cuite/sèche (volaille);3 pa 2 pc;10;250g viande (1 portion);;;;;;;;;;;;;80;100;;;;;;;;80;;;100;;;;;;;;;;;;;;;;;
+Violon [O&L];10 po ;3;Deux musiques de barde simultanées;;;;;;;;65;;;;;;;;;;;;;;;;;;;;;;;;;80;;100;;;;;;;
+Violon de maître (+2) [O&L];200 po ;2;Deux musiques de barde simultanées;;;;;;;;40;;;;;;;;;;;;;;;;;;;;;;;;;60;;70;;;;;;;
+Yeux de lynx;2500 po ;1;Bonus +5 Détection;;;;;;;;30;;;;;;;;;;;;;;;;;;;;5;;;;;;;;;;;;;;70
