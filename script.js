@@ -38,6 +38,7 @@ function generateColumnOptions() {
         selectElement.appendChild(option);
     }
 }
+
 function generateTable() {
     const selectedColumn = parseInt(document.getElementById("filterColumn").value);
     const tbody = document.querySelector("#itemsTable tbody");
@@ -54,8 +55,4 @@ function generateTable() {
 
         
     });
-}
-
-
-    generateTable(); // Re-génère le tableau basé sur la colonne sélectionnée et la probabilité
 }
