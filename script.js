@@ -51,8 +51,7 @@ function generateTable() {
         const PRIX = item["PRIX"];
         const QTE = (item["QTE"]);
         const DETAILS = item["DETAILS"];
-        const probability = parseInt(item[Object.keys(item)[selectedColumn]]); // Probabilité selon la colonne sélectionnée
-
+        
             // Créer une ligne pour l'article
             const row = document.createElement("tr");
             row.innerHTML = `
