@@ -38,10 +38,3 @@ function generateColumnOptions() {
         selectElement.appendChild(option);
     }
 }
-// Fonction pour générer le tableau en fonction de la colonne sélectionnée
-function generateTable() {
-    const selectedColumn = parseInt(document.getElementById("filterColumn").value);
-    const tbody = document.querySelector("#itemsTable tbody");
-    tbody.innerHTML = ''; // Vider le tableau existant
-
-
