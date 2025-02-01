@@ -39,23 +39,4 @@ function generateColumnOptions() {
     }
 }
 
-// Fonction pour générer le tableau en fonction de la colonne sélectionnée
-function generateTable() {
-    const selectedColumn = parseInt(document.getElementById("filterColumn").value);
-    const tbody = document.querySelector("#itemsTable tbody");
-    tbody.innerHTML = ''; // Vider le tableau existant
 
-    if (selectedColumn === undefined || csvData.length === 0) return;
-
-    csvData.forEach(item => {
-        const ARTICLE = item["ARTICLE"];
-        const PRIX = item["PRIX"];
-        const QTE = (item["QTE"]);
-        const DETAILS = item["DETAILS"];
-              
-    });
-}
-
-
-    generateTable(); // Re-génère le tableau basé sur la colonne sélectionnée et la probabilité
-}
