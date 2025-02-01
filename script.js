@@ -15,7 +15,7 @@ function loadCSVData(event) {
             complete: function(results) {
                 csvData = results.data; // Stocker les données parsées dans csvData
                 generateColumnOptions(); // Mettre à jour le menu déroulant avec les nouvelles colonnes
-                generateTable(); // Générer immédiatement le tableau avec les options actuelles
+                
             }
         });
     };
@@ -37,4 +37,13 @@ function generateColumnOptions() {
         option.textContent = columns[i]; // Nom de la colonne (probabilité)
         selectElement.appendChild(option);
     }
+}
+// Fonction pour générer le tableau en fonction de la colonne sélectionnée
+function generateTable() {
+    const selectedColumn = parseInt(document.getElementById("filterColumn").value);
+    const tbody = document.querySelector("#itemsTable tbody");
+    tbody.innerHTML = ''; // Vider le tableau existant
+
+
+    generateTable(); // Re-génère le tableau basé sur la colonne sélectionnée et la probabilité
 }
