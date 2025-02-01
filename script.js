@@ -1,4 +1,4 @@
-console.log("Fichier script.js ajouté avec succès !");
+
 let csvData = []; 
 
 // Fonction pour charger et parser le fichier CSV
@@ -44,6 +44,17 @@ function generateTable() {
     const tbody = document.querySelector("#itemsTable tbody");
     tbody.innerHTML = ''; // Vider le tableau existant
 
+    if (selectedColumn === undefined || csvData.length === 0) return;
 
+    csvData.forEach(item => {
+        const ARTICLE = item["ARTICLE"];
+        const PRIX = item["PRIX"];
+        const QTE = parseInt(item["QTE"]);
+        const DETAILS = item["DETAILS"];
+        const probability = parseInt(item[Object.keys(item)[selectedColumn]]); // Probabilité selon la colonne sélectionnée
+
+
+
+    
     generateTable(); // Re-génère le tableau basé sur la colonne sélectionnée et la probabilité
 }
