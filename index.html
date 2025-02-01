@@ -30,12 +30,12 @@
 <input type="file" id="csvFileInput" accept=".csv" onchange="loadCSVData(event)"><br>
 
 <!-- Menu déroulant pour sélectionner la colonne de probabilités -->
-<select id="filterColumn" onchange="generateTable()">
+<select id="filterColumn">
     <!-- Les options seront générées dynamiquement -->
 </select>
 
 <!-- Bouton pour générer la liste aléatoire -->
-<button onclick="generateRandomList()">Générer Liste Aléatoire</button>
+<button onclick="generateTable()">Générer Liste Aléatoire</button>
 
 <table id="itemsTable">
     <thead>
