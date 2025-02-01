@@ -52,15 +52,7 @@ function generateTable() {
         const QTE = (item["QTE"]);
         const DETAILS = item["DETAILS"];
         
-            // Créer une ligne pour l'article
-            const row = document.createElement("tr");
-            row.innerHTML = `
-                <td>${ARTICLE}</td>
-                <td>${PRIX}</td>
-                <td>${QTE}</td>
-                <td>${DETAILS}</td>
-            `;
-            tbody.appendChild(row);
+            
         }
     });
 }
