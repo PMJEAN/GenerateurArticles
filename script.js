@@ -1,4 +1,3 @@
-
 let csvData = []; 
 
 // Fonction pour charger et parser le fichier CSV
@@ -15,13 +14,14 @@ function loadCSVData(event) {
             complete: function(results) {
                 csvData = results.data; // Stocker les données parsées dans csvData
                 generateColumnOptions(); // Mettre à jour le menu déroulant avec les nouvelles colonnes
-                
+                generateTable(); // Générer immédiatement le tableau avec les options actuelles
             }
         });
     };
     
     reader.readAsText(file); // Lire le fichier comme texte
 }
+
 // Fonction pour générer dynamiquement les options du menu déroulant
 function generateColumnOptions() {
     const selectElement = document.getElementById('filterColumn');
@@ -38,6 +38,7 @@ function generateColumnOptions() {
         selectElement.appendChild(option);
     }
 }
+
 // Fonction pour générer le tableau en fonction de la colonne sélectionnée
 function generateTable() {
     const selectedColumn = parseInt(document.getElementById("filterColumn").value);
@@ -51,12 +52,10 @@ function generateTable() {
         const PRIX = item["PRIX"];
         const QTE = (item["QTE"]);
         const DETAILS = item["DETAILS"];
-        
-            
-        }
+              
     });
 }
 
-    
+
     generateTable(); // Re-génère le tableau basé sur la colonne sélectionnée et la probabilité
 }
