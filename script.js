@@ -62,3 +62,4 @@ function generateTable() {
             tbody.appendChild(row);    
         });
 }
+generateTable()
