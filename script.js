@@ -49,11 +49,22 @@ function generateTable() {
     csvData.forEach(item => {
         const ARTICLE = item["ARTICLE"];
         const PRIX = item["PRIX"];
-        const QTE = parseInt(item["QTE"]);
+        const QTE = (item["QTE"]);
         const DETAILS = item["DETAILS"];
         const probability = parseInt(item[Object.keys(item)[selectedColumn]]); // Probabilité selon la colonne sélectionnée
 
-
+            // Créer une ligne pour l'article
+            const row = document.createElement("tr");
+            row.innerHTML = `
+                <td>${ARTICLE}</td>
+                <td>${PRIX}</td>
+                <td>${QTE}</td>
+                <td>${DETAILS}</td>
+            `;
+            tbody.appendChild(row);
+        }
+    });
+}
 
     
     generateTable(); // Re-génère le tableau basé sur la colonne sélectionnée et la probabilité
