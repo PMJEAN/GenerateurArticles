@@ -14,7 +14,7 @@ function loadCSVData(event) {
             complete: function(results) {
                 csvData = results.data; // Stocker les données parsées dans csvData
                 generateColumnOptions(); // Mettre à jour le menu déroulant avec les nouvelles colonnes
-                generateTable(); // Générer immédiatement le tableau avec les options actuelles
+                
             }
         });
     };
